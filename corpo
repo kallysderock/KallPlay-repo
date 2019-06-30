@@ -1,7 +1,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]l[/COLOR] [COLOR White][B]BR[/B][/COLOR][COLOR red][B]LIVE[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR-TESTE-1 [/B][/COLOR]</name>
+<name>[COLOR yellow]k[/COLOR] [COLOR White][B]all[/B][/COLOR][COLOR red][B]play[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR-TESTE-1 [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/XwKnUQF.jpg</thumbnail>
 <externallink></externallink>
 <fanart>https://i.imgur.com/9KMCqko.jpg</fanart>
@@ -56,7 +56,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]l[/COLOR] [COLOR White][B]BR[/B][/COLOR][COLOR red][B]LIVE[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR-01 [/B][/COLOR]</name>
+<name>[COLOR yellow]k[/COLOR] [COLOR White][B]all[/B][/COLOR][COLOR red][B]PLAY[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR-01 [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/Z9lQsis.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/eliel733/brlive733/master/corposervidor01</externallink>
 <fanart>https://i.imgur.com/9KMCqko.jpg</fanart>
