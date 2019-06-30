@@ -1,0 +1,495 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://encurtador.com.br/CHQU4" group-title="", CANAL RICOS
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo Bahia" tvg-logo="https://lh3.googleusercontent.com/-j5nIbQ2xNqU/W6aE8nXzQGI/AAAAAAAAAOI/yKrE8sFdFp4lVMeL5JK4rCvivk2hk7wqACEwYBhgL/w140-h139-p/globo.png" group-title="Canais Abertos",Globo Bahia
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1749
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://lh3.googleusercontent.com/-MLRKexNqD38/W6aExlPA9gI/AAAAAAAAAOU/riU-splic4oipjERh2VQxwS2pPx2EU_dwCEwYBhgL/h120/discoverychannel.png" group-title="Documentarios",Discovery Channel
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1709
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://lh3.googleusercontent.com/-ILd5pGg8q6E/W6aEsl4cy5I/AAAAAAAAAOw/2MIT5KlhrFk83Ht6oN9ar_dotFkwft1nwCEwYBhgL/h120/bis.png" group-title="Entretenimento",BIS
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1687
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1" tvg-logo="https://lh3.googleusercontent.com/-VfvA5qSoNOk/W6aFWkLpugI/AAAAAAAAAO4/wvUmxbwOFuwImYI-ANc7uPPgsNGmk0ofACEwYBhgL/w140-h84-p/sportv.png" group-title="Esportes",SporTV 1
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1681
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://lh3.googleusercontent.com/-Wk1vm7_7qOQ/W6aEoweBFcI/AAAAAAAAAOs/c21b2foaoN8cPdFUjVCZFne9ay9A8tFZgCEwYBhgL/h120/amc.png" group-title="Filmes",AMC
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1694
+#EXTINF:-1 tvg-id="Mais Globosat" tvg-name="Mais Globosat" tvg-logo="https://lh3.googleusercontent.com/-9oqlXZlImDQ/W6aFHmeOjUI/AAAAAAAAAOQ/fAQKCgVTkLQ3Ao14mcunJq2LZH0AVPCngCEwYBhgL/h120/maisglobosatb.png" group-title="Globosat",Mais Globosat
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1675
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://lh3.googleusercontent.com/-gjomuCwsXo0/W6aEvx0nv0I/AAAAAAAAAOI/jYUffMuQubkI4YGEYCYQfof2sWhEBCzBwCEwYBhgL/h120/cinemax.png" group-title="HBO",Cinemax
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1705
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://lh3.googleusercontent.com/-Dlqhjy343zk/W6aEtwx5kiI/AAAAAAAAAO0/wC3FsheoXxU3d9E9d7Yr81smxqlx7UAtwCEwYBhgL/h120/boomerang.png" group-title="Infantis",Boomerang
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1702
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="https://lh3.googleusercontent.com/-TcF9NyqfiLs/W6aExDVVtaI/AAAAAAAAAOM/-HY3SCXy41QcILNibAXrTurea87S9u8xwCEwYBhgL/w140-h84-p/combate.png" group-title="Premieres",Combate
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1915
+#EXTINF:-1 tvg-id="AeE" tvg-name="AeE" tvg-logo="https://lh3.googleusercontent.com/-Z0eE10KhbCE/W6aEoqjBWCI/AAAAAAAAAOU/GDGdzWuMbDk24UR6vuMfRH4_6LaO2ODGgCEwYBhgL/h120/a%2526e.png" group-title="Series",AeE
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1691
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="TC Action" tvg-logo="https://lh3.googleusercontent.com/-5GgjrKE51uc/W6aFZqy3c0I/AAAAAAAAAOg/c8Lz-SmP9Hkrj2m-wICpc_gDUpgAu6N1wCEwYBhgL/w140-h84-p/tcaction1.png" group-title="Telecine",TC Action
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1686
+#EXTINF:-1 tvg-id="Curta" tvg-name="Curta" tvg-logo="https://lh3.googleusercontent.com/-LM60vcGnyU8/W6aExRwKwpI/AAAAAAAAAO4/oou0LW34Qg4U3mUYYyfXv6c2LhZYO17RwCEwYBhgL/h120/comedycentral.png" group-title="Variedades",Curta
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1708
+#EXTINF:-1 tvg-id="" tvg-name="Boku no Hero Academia 1ºTP" tvg-logo="https://lh3.googleusercontent.com/-dtXR5eEkBx8/W6cNIIBn-qI/AAAAAAAAAX0/nqxSNAr1H-Ie0O4F9ViOpHn16cGpDmMpgCLcBGAs/h120/boku-no-hero-academia-logo-png-6.png" group-title="Especiais-Animes",Boku no Hero Academia 1ºTP
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1508
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia 1º e 2ºTP" tvg-logo="https://lh3.googleusercontent.com/-pQk8LBo1p0A/W6cXBGUkQQI/AAAAAAAAAZQ/HR2tU27MMxky__el70bVfMC7r6yjN3qwgCLcBGAs/h120/fundohomer-dezembro_orig.png" group-title="Especiais-Desenhos",A Pequena Sereia 1º e 2ºTP
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1930
+#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas" tvg-logo="https://lh3.googleusercontent.com/-as4T6Bia3Uw/W6cKkQmZdbI/AAAAAAAAAXQ/_eIVgudLxAI_kH698CZkdalkUEAE4w14wCLcBGAs/h120/3-Palavrinhas.png" group-title="Especiais-Kids",3 Palavrinhas
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1541
+#EXTINF:-1 tvg-id="" tvg-name="Des-encanto" tvg-logo="https://lh3.googleusercontent.com/-KShudtwcP9Y/W6cFm9RGdwI/AAAAAAAAAUA/rFN17B-uXxE7DR0u4t4ZrdRBnz23DR9VgCLcBGAs/h96/desencanto.png" group-title="Especiais-Series",Des-encanto
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1662
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers 1ºTP - Part I" tvg-logo="https://1.bp.blogspot.com/-J5jNoKUctSk/W-YfREqEwcI/AAAAAAAAACU/xRb6yT9rkVs6sx--52NvAWA7_7Lsvpp6ACLcBGAs/s1600/power1.png" group-title="Especiais-Tokusatsus",Power Rangers 1ºTP - Part I
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/11876
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 6 Max FHD" tvg-logo="" group-title="Esportes [Internacionais]",SPORT: beIN Sports 6 Max FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/12866
+#EXTINF:-1 tvg-id="" tvg-name="PT: 24 KITCHEN HD" tvg-logo="" group-title="Internacionais",PT: 24 KITCHEN HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/13039
+#EXTINF:-1 tvg-id="" tvg-name="XX: Sextreme" tvg-logo="https://lh3.googleusercontent.com/-6BRFFo5HgHI/W6aFUM36M1I/AAAAAAAAAOo/2XyPlhTNdPQw6TuJdAi1reHW1Z0ZAnghACEwYBhgL/w140-h84-p/sextremeb.png" group-title="Adultos",XX: Sextreme
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1679
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="https://lh3.googleusercontent.com/-NPC_sUpY3Jw/W6aEuFPHPiI/AAAAAAAAAOI/95nhq-2UIGUNeTepsfwHZ2KGk6A2wA9FgCEwYBhgL/h120/canalbrasil.png" group-title="Filmes",Canal Brasil
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1703
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="https://lh3.googleusercontent.com/-ST3Y6PX4ExA/W6aEqDe4OkI/AAAAAAAAAO0/1zUst4zkobsrX5IsnuUwotKmxe4GCtKGQCEwYBhgL/h120/arte1.png" group-title="Entretenimento",Arte 1
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1676
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://lh3.googleusercontent.com/-cKFXF-FNncU/W6aEqdkLWTI/AAAAAAAAAOg/78DhUFUoB4UA3Dn0vHhBL5anJEouDRR_gCEwYBhgL/h120/axn.png" group-title="Series",AXN
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1677
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://lh3.googleusercontent.com/--KM3OMNJRfc/W6aFWZEZZuI/AAAAAAAAAOk/MXYPYN_3cd8smnI53xKnKS7YF3e5UD7hACEwYBhgL/w140-h84-p/space.png" group-title="Filmes",Space
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1680
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="https://lh3.googleusercontent.com/-V0DzpvtIuuY/W6aFWmTlbSI/AAAAAAAAAOI/RMQ_X5RJcIk8vGO09yWIVWBbmEZQPHgowCEwYBhgL/w140-h84-p/sportv2.png" group-title="Esportes",SporTV 2
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1682
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://1.bp.blogspot.com/-VR1EqFVKWJk/XF8iVPjSzdI/AAAAAAAAAzI/71lunfFCiyosnqt-Xo2WKc35n-GIwicFgCLcBGAs/s1600/1200px-Animal_Planet_2018.svg.png" group-title="Documentarios",Animal Planet
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1697
+#EXTINF:-1 tvg-id="Bandeirantes" tvg-name="Band" tvg-logo="https://lh3.googleusercontent.com/-bYc3AZj4FVA/W6aErT2r7TI/AAAAAAAAAOM/tFJNiJRBQLkHTrqpGOkhqSgK4ow_1EKXgCEwYBhgL/h120/band.png" group-title="Canais Abertos",Band
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1698
+#EXTINF:-1 tvg-id="Band News" tvg-name="Band News" tvg-logo="https://lh3.googleusercontent.com/-18ykrCbfN6Y/W6aEru94vUI/AAAAAAAAAO4/EcSsvOh3qW4yYhzIrbaUyauyNmR56AiLQCEwYBhgL/h120/bandnews.png" group-title="Canais Abertos",Band News
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1699
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="Band Sports" tvg-logo="https://lh3.googleusercontent.com/-cYDGNtJ0zC4/W6aEryaz-RI/AAAAAAAAAO8/u9fu8nOuSmAsQNFEz6N-Hdx-dl9DsUo5wCEwYBhgL/h120/bandsports.png" group-title="Esportes",Band Sports
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1700
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://lh3.googleusercontent.com/-BmSwdwY0kwg/W6aEvbCIEXI/AAAAAAAAAO4/A3S1h87tudgL4bmfCV-MH60LsiNFlV7aQCEwYBhgL/h120/cartoonnetwork.png" group-title="Infantis",Cartoon Network
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1704
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://lh3.googleusercontent.com/-Hy1TBQi9vag/W6aFXYo-wtI/AAAAAAAAAO4/rtOYpJk3unc-FhKnD8NJlBnH47IYhhZ5ACEwYBhgL/w140-h84-p/studiouniversal.png" group-title="Series",Studio Universal
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1683
+#EXTINF:-1 tvg-id="SyFy" tvg-name="Syfy" tvg-logo="https://lh3.googleusercontent.com/-6dXdUtAIW_U/W6aFYysusNI/AAAAAAAAAOE/LoE-2h6qXnUDQxTKkVhMRzxaGTpg0RxrQCEwYBhgL/w140-h84-p/syfy.png" group-title="Series",Syfy
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1684
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://lh3.googleusercontent.com/-kfRmcfGBtr4/W6aFZPxP4OI/AAAAAAAAAOE/gRANjCjSjMQJE7waP3KUORcJFZcTPld4gCEwYBhgL/w140-h75-p/tbs.png" group-title="Series",TBS
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1685
+#EXTINF:-1 tvg-id="TC Cult" tvg-name="TC Cult" tvg-logo="https://lh3.googleusercontent.com/-1v5Y8HVlzDs/W6aFZzmarHI/AAAAAAAAAPA/3ADsbm75Cn8dv_OTUEbmNbakpoLHDcVngCEwYBhgL/w140-h67-p/tccult.png" group-title="Telecine",TC Cult
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1688
+#EXTINF:-1 tvg-id="TC Pipoca" tvg-name="TC Pipoca" tvg-logo="https://lh3.googleusercontent.com/-49KwHjqEI28/W6aFbuBF7XI/AAAAAAAAAPA/hdWRhaYqoLs2uiMo0ONOWcVYX3Y-OnOCgCEwYBhgL/w140-h84-p/tcpipoca.png" group-title="Telecine",TC Pipoca
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1689
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://lh3.googleusercontent.com/-bIacgpKmG8o/W6aFa2go8BI/AAAAAAAAAOI/_9dAo1NI3qsILpnwAaBSMcp-y5vMar5xACEwYBhgL/w140-h84-p/tcm.png" group-title="Filmes",TCM
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1690
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://lh3.googleusercontent.com/-dhIOxSWrLH0/W6aFdv22UWI/AAAAAAAAAO8/OsGQxrjCDQwrQ8ekbvAnII0AyJ5PUzpdQCEwYBhgL/w140-h84-p/tlc.png" group-title="Variedades",TLC
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1692
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://lh3.googleusercontent.com/-2SkoXJGbBYA/W6aFeL39xTI/AAAAAAAAAOM/6oDPlM2i2y8-OY_l3u09TlZ8Gb213K9sgCEwYBhgL/w140-h84-p/tnt.png" group-title="Filmes",TNT
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1695
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="https://lh3.googleusercontent.com/-mlbNmC5_Kis/W6aFevhjeQI/AAAAAAAAAOQ/oIsqdFBUh9camDEpP6QqTqnTs7SdHKjGACEwYBhgL/w140-h84-p/tntseries.png" group-title="Series",TNT Series
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1696
+#EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="https://lh3.googleusercontent.com/-Q_-BDb6lmyc/W6aEu32XI2I/AAAAAAAAAO4/RUfIvYP1BLYn2iZo4UFg1p-J8Sn_b0nKACEwYBhgL/w140-h84-p/canalrural.png" group-title="Canais Abertos",Canal Rural
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1727
+#EXTINF:-1 tvg-id="" tvg-name="Cancao Nova" tvg-logo="https://lh3.googleusercontent.com/-P9cF5-HfH4w/W6aFhSx0aUI/AAAAAAAAAOk/XQYx9CuOOXMF80qvMKd9l_6dxuFyIjPQgCEwYBhgL/w140-h84-p/tvcancaonova.png" group-title="Canais Abertos",Cancao Nova
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1731
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://lh3.googleusercontent.com/-LM60vcGnyU8/W6aExRwKwpI/AAAAAAAAAO4/oou0LW34Qg4U3mUYYyfXv6c2LhZYO17RwCEwYBhgL/h120/comedycentral.png" group-title="Series",Comedy Central
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1706
+#EXTINF:-1 tvg-id="Discovery Home e Health" tvg-name="Discovery Home e Health" tvg-logo="https://lh3.googleusercontent.com/-FJJgxkbG0-4/W6aEx-A_VGI/AAAAAAAAAOU/vLIa2G8m-IcXeJ8xrmJQ9Tdi1mMb1Ks_QCEwYBhgL/h120/discoveryhomeandhealth.png" group-title="Variedades",Discovery Home e Health
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1710
+#EXTINF:-1 tvg-id="ID: Investigacao" tvg-name="Discovery ID" tvg-logo="https://lh3.googleusercontent.com/-JV4w4htMa4U/W6aFGFnNLtI/AAAAAAAAAOI/UbNemdbYzrUOGA9OoFHEdgPmQ3l1E9xDACEwYBhgL/h120/investigation.png" group-title="Documentarios",Discovery ID
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1713
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://lh3.googleusercontent.com/-pxY5HKjjp5s/W6aEyH4pPAI/AAAAAAAAAOs/U4KbOoui8g0ZluklfbJpvdIG0zpePIYagCEwYBhgL/h120/discoverykids.png" group-title="Infantis",Discovery Kids
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1715
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://lh3.googleusercontent.com/-4CpUF4dT0Hc/W6aEzyOFkPI/AAAAAAAAAOg/UzJ1fPNmDdUEsKUeHGDnus1Z4StdlMvLwCEwYBhgL/h120/discoveryturbo.png" group-title="Documentarios",Discovery Turbo
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1717
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://lh3.googleusercontent.com/-qcjNFPpUQmo/W6aE0O3v3YI/AAAAAAAAAOw/z85KfRG-IqgBonBsu_O07mrUVdb7cU37ACEwYBhgL/h120/disney.png" group-title="Infantis",Disney Channel
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1719
+#EXTINF:-1 tvg-id="Disney Jr." tvg-name="Disney Jr." tvg-logo="https://lh3.googleusercontent.com/-fXr-hqj3Wbs/W6aE0Cys2UI/AAAAAAAAAPA/7MRDvixBOgkDoNw-ZrMnUm6jV4neNcCogCEwYBhgL/h120/disneyjunior.png" group-title="Infantis",Disney Jr.
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1722
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="https://lh3.googleusercontent.com/-JKs60HJpAPw/W6aE0T1cG0I/AAAAAAAAAOM/oDPPOshm8mgB-3G-Ax3mR9Uo6OsXK9BygCEwYBhgL/h120/disneyxd.png" group-title="Infantis",Disney XD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1724
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://lh3.googleusercontent.com/-gUaSrdgMFqo/W6aEooPyu4I/AAAAAAAAAO4/MdUHUmPkebw3Ysl9CeLnnwwBr-kx3PzhgCEwYBhgL/h120/Echannel.png" group-title="Variedades",E!
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1726
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="" group-title="Esportes",ESPN
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1730
+#EXTINF:-1 tvg-id="" tvg-name="ESPN +" tvg-logo="https://lh3.googleusercontent.com/-PJw9DKGH1yE/W6aE3OItTRI/AAAAAAAAAOQ/ROFz8GMrvSYW2yX_XrX1-1C3Ef7vEnFfQCEwYBhgL/w140-h84-p/espnmaisb.png" group-title="Esportes",ESPN +
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1732
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil" tvg-logo="https://lh3.googleusercontent.com/-yMBmEgteTEw/W6aE2UfqKUI/AAAAAAAAAO4/Jm13vt5K7kkoj1H-NcKPuYEs8mSVp-kkQCEwYBhgL/w140-h84-p/espnbrasil.png" group-title="Esportes",ESPN Brasil
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1735
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV" tvg-logo="https://lh3.googleusercontent.com/-UOCnqOcEyxs/W6aE4dJMjgI/AAAAAAAAAO0/dREbnuTbYFgelOczWTv-bUR69YdseE5XQCEwYBhgL/w140-h84-p/fishtv.png" group-title="Variedades",Fish TV
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1737
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://lh3.googleusercontent.com/-kWT7kONefJs/W6aE4sHQ4ZI/AAAAAAAAAOs/jkAiX0cCiiYLCR7E5K5ISPI65WDanWaDwCEwYBhgL/w140-h84-p/foodnetwork.png" group-title="Variedades",Food Network
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1738
+#EXTINF:-1 tvg-id="FOX" tvg-name="Fox" tvg-logo="https://lh3.googleusercontent.com/-Fy9eR8Ol4Ko/W6aE5GbJKSI/AAAAAAAAAO0/IzSEiuzaLqcSnXIMsQ0uqeW8Rh_D5HICgCEwYBhgL/w140-h84-p/fox.png" group-title="Series",Fox
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1739
+#EXTINF:-1 tvg-id="FOX Life" tvg-name="Fox Life" tvg-logo="https://lh3.googleusercontent.com/-nBW8ssm3btU/W6aE6C0zhqI/AAAAAAAAAOg/qAV-VfPmQNwvfsjTs7nk5pxYVQeFQzpfACEwYBhgL/w140-h84-p/foxlife.png" group-title="Variedades",Fox Life
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1740
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports 1" tvg-logo="https://lh3.googleusercontent.com/-mOAsfgXI45c/W6aE7SKe0LI/AAAAAAAAAOI/8LZF0vM4UdI6-SkzZW2igMiWD45xJDGswCEwYBhgL/w140-h84-p/foxsports.png" group-title="Esportes",Fox Sports 1
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1742
+#EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-name="Fox Sports 2" tvg-logo="https://lh3.googleusercontent.com/-bS0xco7r98s/W6aE747hFQI/AAAAAAAAAO0/zX8j4ogJ0jcWRhfWoCqm7PeubP7cPb3vwCEwYBhgL/w140-h84-p/foxsports2.png" group-title="Esportes",Fox Sports 2
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1745
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://lh3.googleusercontent.com/-3vmm6N6Dx-g/W6aE8PaNMTI/AAAAAAAAAO8/XzH63759QPoWt2OVJ_fLll-TnqNVavb4QCEwYBhgL/w140-h84-p/fx.png" group-title="Series",FX
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1746
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo Brasilia" tvg-logo="https://lh3.googleusercontent.com/-i_9iHDV2-T8/W6aE9AJbtxI/AAAAAAAAAO0/5j4-8hhJ92ACaSYPzxEVNcVWK3CyF76rACEwYBhgL/w140-h84-p/globodf.png" group-title="Canais Abertos",Globo Brasilia
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1751
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo Minas" tvg-logo="https://lh3.googleusercontent.com/-7GjAe6Jme_M/W6aE84qqqUI/AAAAAAAAAOQ/GDOlZnMj8kMtw1JCqfaiLv8jBiSGdzRIgCEwYBhgL/w140-h84-p/globobh.png" group-title="Canais Abertos",Globo Minas
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1752
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News" tvg-logo="https://lh3.googleusercontent.com/-D3emj_JCSPs/W6aE93KLsoI/AAAAAAAAAOE/kJ5HN0ffztEcsinqGlM_1_12xf1LwYv_wCEwYBhgL/w140-h84-p/globonews.png" group-title="Globosat",Globo News
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1755
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo NE" tvg-logo="https://lh3.googleusercontent.com/-QvVGtpyGPms/W6aE9m9VOTI/AAAAAAAAAOI/2bzmyz5BSKYnc5UVppbzL3jJqqcIn3GIACEwYBhgL/w140-h84-p/globone.png" group-title="Canais Abertos",Globo NE
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1758
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://lh3.googleusercontent.com/-V-Xak-R6ZgY/W6aE-qvkuLI/AAAAAAAAAOE/2FC6LwRuRNAwDqxpi1753oB-A15cpXWQQCEwYBhgL/w140-h84-p/globosp.png" group-title="Canais Abertos",Globo SP
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1759
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="https://lh3.googleusercontent.com/-KOffSoezP0o/W6aE_FSrlvI/AAAAAAAAAOo/wPDGPmdWSYAvtmLeTUFjNy5gwp5umEQhwCEwYBhgL/w140-h84-p/gloob.png" group-title="Infantis",Gloob
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1762
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://lh3.googleusercontent.com/-zq084X3P5y4/W6ao2HydQcI/AAAAAAAAAPQ/kM1Tq9VIvykuJO4gmd_RSuT0omPffTaZgCLcBGAs/h120/gnt.png" group-title="Globosat",GNT
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1764
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://lh3.googleusercontent.com/-xiojol3EBW4/W6aFBLhPH6I/AAAAAAAAAOg/dBjlb0T3DAwcq-jPp28jiNyWIU7S-tdWACEwYBhgL/w140-h84-p/hbo.png" group-title="HBO",HBO
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1766
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://lh3.googleusercontent.com/-wbMLsmE6tlY/W6aFBoE3cFI/AAAAAAAAAOg/vCm1Uedw2osoho4dSQJ0oPk9I1dkWauJwCEwYBhgL/w140-h84-p/hbo2.png" group-title="HBO",HBO 2
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1767
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://lh3.googleusercontent.com/-TF3zam9UzHo/W6aFCBrMwqI/AAAAAAAAAOo/f6nAmk9cfWAzW11KNB3xaH8Fh14IjjInACEwYBhgL/w140-h84-p/hbofamily.png" group-title="HBO",HBO Family
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1771
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus" tvg-logo="https://lh3.googleusercontent.com/-CTZLN_GA7dk/W6aFCgdnQUI/AAAAAAAAAOQ/MA_n5Go3hUYq3lgt18l1HBBfnytQFf7IwCEwYBhgL/w140-h84-p/hboplus.png" group-title="HBO",HBO Plus
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1772
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO signature" tvg-logo="https://lh3.googleusercontent.com/-vgYyRGdmXqg/W6aFDmHKPmI/AAAAAAAAAOU/0wGJWrYOgww87ubAZs9EbqKo74uaHhNwACEwYBhgL/w140-h84-p/hbosignature.png" group-title="HBO",HBO signature
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1777
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://lh3.googleusercontent.com/-qCcH9AWeRnM/W6aFELOqF7I/AAAAAAAAAO4/RYX-AvxBBd4XBHWNKRYIKOw_8UMxdUxIACEwYBhgL/w140-h84-p/history.png" group-title="Documentarios",History
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1780
+#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="https://lh3.googleusercontent.com/-MxjjfjaOgXU/W6aFAnhbQJI/AAAAAAAAAOQ/yvua2eR46okQrEHh_0udagjcwuIKwthMACEwYBhgL/w140-h84-p/h2.png" group-title="Documentarios",History 2
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1782
+#EXTINF:-1 tvg-id="Ideal TV SP" tvg-name="TV Ideal" tvg-logo="https://lh3.googleusercontent.com/-nEXxILLQn7A/W6aFFFcDQAI/AAAAAAAAAOw/fnaaNu1GYrkBgVh925h-bDj1S8xQ-Qv2gCEwYBhgL/w140-h84-p/idealtv.png" group-title="Canais Abertos",TV Ideal
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1733
+#EXTINF:-1 tvg-id="NBR" tvg-name="NBR" tvg-logo="https://lh3.googleusercontent.com/-agFLGARocZo/W6aFMkZTEYI/AAAAAAAAAOs/DxzlwVvCRhgUhz3FKPHU9C8X7UAlBp5-wCEwYBhgL/w140-h84-p/nbr.png" group-title="Canais Abertos",NBR
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1734
+#EXTINF:-1 tvg-id="NHK World Premium" tvg-name="JP: NHK" tvg-logo="https://lh3.googleusercontent.com/-l_DGzwkJOi0/W6aFM9MsksI/AAAAAAAAAOM/ZeC0p2tukC4asDlEzemo7Xslovz_u8qPACEwYBhgL/w140-h84-p/nhk.png" group-title="Variedades",JP: NHK
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1743
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="TV Novo Tempo" tvg-logo="https://lh3.googleusercontent.com/-wUaJ4YGQ2YQ/W6aFjFb8ztI/AAAAAAAAAOE/e-KKcFhh4NsrFaTXV8m843hbotxFE_RUQCEwYBhgL/w140-h84-p/tvnovotempo.png" group-title="Canais Abertos",TV Novo Tempo
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1744
+#EXTINF:-1 tvg-id="Play TV" tvg-name="Play TV" tvg-logo="https://lh3.googleusercontent.com/-HuIiQIhg1HE/W6aFQTTb9DI/AAAAAAAAAOw/8qnf57VXWaYhcF308mrhQrp4FxLiK1JgACEwYBhgL/w140-h84-p/playtv.png" group-title="Entretenimento",Play TV
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1747
+#EXTINF:-1 tvg-id="TV Ra-Tim-Bum" tvg-name="Ra Tim Bum" tvg-logo="https://lh3.googleusercontent.com/-XE9M5yEwL14/W6aFjX277sI/AAAAAAAAAOE/nRtm8VltLOUzSewnUFpwZdgL5NepefUvgCEwYBhgL/w140-h84-p/tvratimbum.png" group-title="Infantis",Ra Tim Bum
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1748
+#EXTINF:-1 tvg-id="" tvg-name="RBI" tvg-logo="https://lh3.googleusercontent.com/-bais6bs0gGc/W6aFR_2tplI/AAAAAAAAAOc/voou5ELJ8z0kocMblEsuRXfOmbwBF_IaACEwYBhgL/w140-h84-p/rbi.png" group-title="Canais Abertos",RBI
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1750
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil" tvg-logo="https://lh3.googleusercontent.com/-OmJmgjw17_w/W6aFSl0rDBI/AAAAAAAAAOs/Dk2xlsWXB6gvTRa6b4lYhj-kcCoiEwmfwCEwYBhgL/w140-h84-p/redebrasil.png" group-title="Canais Abertos",Rede Brasil
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1753
+#EXTINF:-1 tvg-id="Rede TV!" tvg-name="Rede TV" tvg-logo="https://lh3.googleusercontent.com/-OcDOAT7ZN2g/W6aFTYBRsbI/AAAAAAAAAOM/0QCedDuPVDw4Z-x3mLIMw7GjUNO579N4ACEwYBhgL/w140-h84-p/redetv.png" group-title="Canais Abertos",Rede TV
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1756
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="https://lh3.googleusercontent.com/-_0tppvBt8dQ/W6aFTm7at7I/AAAAAAAAAOo/nesDHdsJCW8BbsLyHw-kL7rtX3sx0bQWgCEwYBhgL/w140-h84-p/redevida.png" group-title="Canais Abertos",Rede Vida
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1757
+#EXTINF:-1 tvg-id="" tvg-name="RIT" tvg-logo="https://lh3.googleusercontent.com/-uYovXIQDSSI/W6aFTn10d8I/AAAAAAAAAOo/MPdGkMdrJnQiM4abVH-bgwZtuROczbopQCEwYBhgL/w140-h84-p/rit.png" group-title="Canais Abertos",RIT
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1760
+#EXTINF:-1 tvg-id="" tvg-name="XX: Sexy Hot" tvg-logo="https://lh3.googleusercontent.com/-3T1OiTfJ-6A/W6aFUb6WnAI/AAAAAAAAAOU/BEN71-0rqSs9a1QSlbepNkiaDHvSdDGJwCEwYBhgL/w140-h84-p/sexyhot.png" group-title="Adultos",XX: Sexy Hot
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1761
+#EXTINF:-1 tvg-id="SIC Internacional" tvg-name="SIC Internacional" tvg-logo="https://lh3.googleusercontent.com/-eBRdw3Xc2_E/W6aFVzXoTOI/AAAAAAAAAOQ/nV_CwJBB4cIdmZ0YZ5pVhsQRNstyWZGUACEwYBhgL/w140-h84-p/sic.png" group-title="Variedades",SIC Internacional
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1763
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony" tvg-logo="https://lh3.googleusercontent.com/-nuo0-McbK4E/W6aFWE2780I/AAAAAAAAAOU/hpU6ZXQm0jMhswsqzwVV91DlEgs31-FSwCEwYBhgL/w140-h84-p/sony.png" group-title="Series",Sony
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1765
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="https://lh3.googleusercontent.com/-9Ym_QSKUriQ/W6aFXHXuUGI/AAAAAAAAAOM/Np9kFEPr9sQ94FpRyqhuxL5ehi0zadI1wCEwYBhgL/w140-h84-p/sportv3.png" group-title="Esportes",SporTV 3
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1768
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="TC Fun" tvg-logo="https://lh3.googleusercontent.com/-oV67h1z-Mfo/W6aFaoCEbGI/AAAAAAAAAOk/oG8gEyAUVzEkr1o1lTtWspoPfLGnlNy0wCEwYBhgL/w140-h84-p/tcfun.png" group-title="Telecine",TC Fun
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1769
+#EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva" tvg-logo="https://lh3.googleusercontent.com/-9U0-p4VIlNg/W6aFdHgDBfI/AAAAAAAAAOo/6p2FRhqjArETuGHB3ZX79-gMNVuD96aYACEwYBhgL/w140-h84-p/terraviva.png" group-title="Canais Abertos",Terra Viva
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1770
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://lh3.googleusercontent.com/-k8C8lgBAk20/W6aFfLJAuII/AAAAAAAAAOs/lF4YTQKA-JgxMytx7NU0vA5dHoQ643F0QCEwYBhgL/w140-h84-p/tooncast.png" group-title="Infantis",Tooncast
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1711
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV" tvg-logo="https://lh3.googleusercontent.com/-UNs9P52fzo8/W6aFfg-1HZI/AAAAAAAAAOM/K-VOez9vNqUfprge4Cr4a6NGZh0WuN8jQCEwYBhgL/w140-h84-p/trutv.png" group-title="Variedades",TruTV
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1712
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="TV Anhanguera GO" tvg-logo="https://lh3.googleusercontent.com/-86cDwyY0dmE/W6aFgnRfQwI/AAAAAAAAAOo/R6IaFop-3qs9N0dHNBLQApJqCV_RHlDawCEwYBhgL/w140-h84-p/tvanhanguera.png" group-title="Canais Abertos",TV Anhanguera GO
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1714
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="Tv Aparecida" tvg-logo="https://lh3.googleusercontent.com/-j_OCHw5LEaI/W6aEqIQCqdI/AAAAAAAAAO0/fyLhswooNU0M8pYLMAkGTbPeMISfotHaACEwYBhgL/w140-h84-p/aparecida.png" group-title="Canais Abertos",Tv Aparecida
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1773
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="https://lh3.googleusercontent.com/-Zjr88SJ0TlY/W6aFhLUtiJI/AAAAAAAAAOs/9sF259yWf1QHdgQuWerNsDtIW716PWBFgCEwYBhgL/w140-h84-p/tvbrasil.png" group-title="Canais Abertos",TV Brasil
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1776
+#EXTINF:-1 tvg-id="Cultura" tvg-name="TV Cultura" tvg-logo="https://lh3.googleusercontent.com/-WNDFc4NG2cY/W6aFhq4aFPI/AAAAAAAAAOI/NBzxycU2LvMOxZEM-WMyFJp2qypyru6rACEwYBhgL/w140-h84-p/tvcultura.png" group-title="Canais Abertos",TV Cultura
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1778
+#EXTINF:-1 tvg-id="" tvg-name="TV Liberal Belem" tvg-logo="https://lh3.googleusercontent.com/-t9DobRAaeFo/W6aFiwMlAqI/AAAAAAAAAOQ/LI8T0j43DrgTR_yU0DntOS1XUOOZH8JdgCEwYBhgL/w140-h84-p/tvliberal.png" group-title="Canais Abertos",TV Liberal Belem
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1779
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="TV Tem Bauru" tvg-logo="https://lh3.googleusercontent.com/-vrRH2vUmtxs/W6aFj1PnxLI/AAAAAAAAAOo/iXjsSl4UOqAC7d7aNiibNl8otJh6PLWywCEwYBhgL/w140-h84-p/tvtem.png" group-title="Canais Abertos",TV Tem Bauru
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1716
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="TV Tem Sorocaba" tvg-logo="https://lh3.googleusercontent.com/-vrRH2vUmtxs/W6aFj1PnxLI/AAAAAAAAAOo/iXjsSl4UOqAC7d7aNiibNl8otJh6PLWywCEwYBhgL/w140-h84-p/tvtem.png" group-title="Canais Abertos",TV Tem Sorocaba
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1718
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="TV Verdes Mares" tvg-logo="https://lh3.googleusercontent.com/-njv6zQwqcxw/W6aFk7RUsdI/AAAAAAAAAOg/Dsg8tCFNJ2IFX4GNXj9-1sEvIjUT8s2lQCEwYBhgL/w140-h84-p/tvverdesmares.png" group-title="Canais Abertos",TV Verdes Mares
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1720
+#EXTINF:-1 tvg-id="TVE Internacional" tvg-name="TVE" tvg-logo="https://lh3.googleusercontent.com/-9WXdy5p7T60/W6aFic4FNQI/AAAAAAAAAOM/yFEi9geSRvs8CIyX53z0FulHJpHL7NM7ACEwYBhgL/w140-h84-p/tvespanha.png" group-title="Canais Abertos",TVE
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1781
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="https://lh3.googleusercontent.com/-EHSDWjexCfs/W6aFleyabXI/AAAAAAAAAO0/fFynMvYK0qMtI-0UyhbrqJWsg8dl5PBXQCEwYBhgL/w140-h84-p/universalchannel.png" group-title="Series",Universal Channel
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1721
+#EXTINF:-1 tvg-id="" tvg-name="XX: Venus" tvg-logo="https://lh3.googleusercontent.com/-xP3xTUe4sh4/W6aFlVqIRDI/AAAAAAAAAOM/Av_8K4JotF0rFX64rhuRfmUzlfRHcu4TgCEwYBhgL/w140-h84-p/venus.png" group-title="Adultos",XX: Venus
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1723
+#EXTINF:-1 tvg-id="WooHoo" tvg-name="Woohoo" tvg-logo="https://lh3.googleusercontent.com/-lEqWGssepK4/W6aFmtIKZ_I/AAAAAAAAAO0/DdlIlVmJgYkom3xwWK3dt4oJUCXW7K3fgCEwYBhgL/w140-h84-p/woohoo.png" group-title="Variedades",Woohoo
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1725
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://1.bp.blogspot.com/-VR1EqFVKWJk/XF8iVPjSzdI/AAAAAAAAAzI/71lunfFCiyosnqt-Xo2WKc35n-GIwicFgCLcBGAs/s1600/1200px-Animal_Planet_2018.svg.png" group-title="Documentarios",Animal Planet HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1813
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://lh3.googleusercontent.com/-cKFXF-FNncU/W6aEqdkLWTI/AAAAAAAAAOg/78DhUFUoB4UA3Dn0vHhBL5anJEouDRR_gCEwYBhgL/w140-h84-p/axn.png" group-title="Series",AXN HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1815
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://lh3.googleusercontent.com/-0fd63reYigY/W6aEq67uBuI/AAAAAAAAAOE/zDtdrBX_XpYrqb4-mKfJhNEso_BnBy_3gCEwYBhgL/w140-h84-p/babytv.png" group-title="Infantis",Baby TV
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1794
+#EXTINF:-1 tvg-id="Band HD" tvg-name="Band HD" tvg-logo="https://lh3.googleusercontent.com/-bYc3AZj4FVA/W6aErT2r7TI/AAAAAAAAAOM/tFJNiJRBQLkHTrqpGOkhqSgK4ow_1EKXgCEwYBhgL/w140-h84-p/band.png" group-title="Canais Abertos",Band HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1817
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="Band Sports HD" tvg-logo="https://lh3.googleusercontent.com/-cYDGNtJ0zC4/W6aEryaz-RI/AAAAAAAAAO8/u9fu8nOuSmAsQNFEz6N-Hdx-dl9DsUo5wCEwYBhgL/w140-h84-p/bandsports.png" group-title="Esportes",Band Sports HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1818
+#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS HD" tvg-logo="https://lh3.googleusercontent.com/-ILd5pGg8q6E/W6aEsl4cy5I/AAAAAAAAAOw/2MIT5KlhrFk83Ht6oN9ar_dotFkwft1nwCEwYBhgL/w140-h84-p/bis.png" group-title="Entretenimento",BIS HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1819
+#EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" tvg-logo="https://lh3.googleusercontent.com/-nuo0-McbK4E/W6aFWE2780I/AAAAAAAAAOU/hpU6ZXQm0jMhswsqzwVV91DlEgs31-FSwCEwYBhgL/w140-h84-p/sony.png" group-title="Series",Sony HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1822
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="Discovery Channel HD" tvg-logo="https://lh3.googleusercontent.com/-MLRKexNqD38/W6aExlPA9gI/AAAAAAAAAOU/riU-splic4oipjERh2VQxwS2pPx2EU_dwCEwYBhgL/w140-h84-p/discoverychannel.png" group-title="Documentarios",Discovery Channel HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1824
+#EXTINF:-1 tvg-id="Discovery Home e Health HD" tvg-name="Discovery Home e Health HD" tvg-logo="https://lh3.googleusercontent.com/-FJJgxkbG0-4/W6aEx-A_VGI/AAAAAAAAAOU/vLIa2G8m-IcXeJ8xrmJQ9Tdi1mMb1Ks_QCEwYBhgL/w140-h84-p/discoveryhomeandhealth.png" group-title="Variedades",Discovery Home e Health HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1826
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="https://lh3.googleusercontent.com/-frSVqhQHea8/W6aEzC983FI/AAAAAAAAAO4/2xOFoSL3_IoEmpEuZoa8ZAOLtVKcBu5fwCEwYBhgL/w140-h84-p/discoverytheater.png" group-title="Documentarios",Discovery Theater HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1828
+#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo HD" tvg-logo="https://lh3.googleusercontent.com/-4CpUF4dT0Hc/W6aEzyOFkPI/AAAAAAAAAOg/UzJ1fPNmDdUEsKUeHGDnus1Z4StdlMvLwCEwYBhgL/w140-h84-p/discoveryturbo.png" group-title="Documentarios",Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1829
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="https://lh3.googleusercontent.com/-pnYF3Wpsfhg/W6aEzzyJPwI/AAAAAAAAAPA/6qngUN0hRPUSKYPliAKQxHd8irbdu3crwCEwYBhgL/w140-h84-p/discoveryworld.png" group-title="Documentarios",Discovery World HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1831
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="EPTV Campinas" tvg-logo="https://lh3.googleusercontent.com/-zuKJQsi9208/W6aE1gOLe7I/AAAAAAAAAOs/OpXb0MbAYzILPn6OWUrQgiNRkphz5IrhQCEwYBhgL/w140-h84-p/eptvcp.png" group-title="Canais Abertos",EPTV Campinas
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1796
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="EPTV Sao Carlos" tvg-logo="https://lh3.googleusercontent.com/-MQALny9FnUg/W6aE1EO-LoI/AAAAAAAAAOw/mN-k0YCNpSkh1jpcIqNNf6mdsZdq8SCbQCEwYBhgL/w140-h84-p/eptv.png" group-title="Canais Abertos",EPTV Sao Carlos
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1799
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-name="ESPN Brasil HD" tvg-logo="https://lh3.googleusercontent.com/-yMBmEgteTEw/W6aE2UfqKUI/AAAAAAAAAO4/Jm13vt5K7kkoj1H-NcKPuYEs8mSVp-kkQCEwYBhgL/w140-h84-p/espnbrasil.png" group-title="Esportes",ESPN Brasil HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1835
+#EXTINF:-1 tvg-id="" tvg-name="I-Sat" tvg-logo="https://lh3.googleusercontent.com/-vN9YbsH9yGk/W6aFGkk7ldI/AAAAAAAAAOM/31iZdWiXSFQYc4YgBNstF6ASVAiNV3SqQCEwYBhgL/w140-h84-p/isat.png" group-title="Series",I-Sat
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1786
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Inter TV Cabugi" tvg-logo="https://lh3.googleusercontent.com/-dugLUGNttN0/W6aFFhiuleI/AAAAAAAAAOE/RWkqrED8epYzFy1SKLBOMnBiLpjAuj5bwCEwYBhgL/w140-h84-p/intertv.png" group-title="Canais Abertos",Inter TV Cabugi
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1784
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://lh3.googleusercontent.com/-EHveWe5zzSo/W6aFHCPWUQI/AAAAAAAAAOo/xfxStM-7uA4tx6gQGORcGrE4or0BL_2twCEwYBhgL/w140-h84-p/lifetime.png" group-title="Variedades",Lifetime
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1787
+#EXTINF:-1 tvg-id="Max" tvg-name="Max" tvg-logo="https://lh3.googleusercontent.com/-mKEexgBRZMY/W6aFIG0e7pI/AAAAAAAAAOE/0ewxQgkxzgcYrnI8bVBHNcTMBD3HxVIrgCEwYBhgL/w140-h84-p/max.png" group-title="HBO",Max
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1788
+#EXTINF:-1 tvg-id="Max Prime" tvg-name="Max Prime" tvg-logo="https://lh3.googleusercontent.com/-bH9RKE3e5VU/W6aFIq617JI/AAAAAAAAAO8/4F2EEDMJewkoUoQK7JBniFhUEJqRhKbeQCEwYBhgL/w140-h84-p/maxprime.png" group-title="HBO",Max Prime
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1789
+#EXTINF:-1 tvg-id="Max Up" tvg-name="Max UP" tvg-logo="https://lh3.googleusercontent.com/-t0T8PwqKP70/W6aFJBR-hzI/AAAAAAAAAOw/Aj9nyXLWLGk9dyLYKl7kebpWw09d6ZhOQCEwYBhgL/w140-h84-p/maxup.png" group-title="HBO",Max UP
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1795
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix" tvg-logo="https://lh3.googleusercontent.com/-SaFd_KaLBVw/W6aFJVJVJ7I/AAAAAAAAAOo/smTD8eKqANAXvuwxvAhfzylTZeXpI33RwCEwYBhgL/w140-h84-p/megapixb.png" group-title="Filmes",Megapix
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1800
+#EXTINF:-1 tvg-id="" tvg-name="Mtv" tvg-logo="https://lh3.googleusercontent.com/-m8RCMjfjhiU/W6aFKCyZilI/AAAAAAAAAOk/EDRD1DzLuvIuyiu0HQ--WSeFylLQwPkFQCEwYBhgL/w140-h84-p/mtv.png" group-title="Entretenimento",Mtv
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1802
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow" tvg-logo="https://lh3.googleusercontent.com/-kH0oRWR7R3c/W6aFKrt0j0I/AAAAAAAAAO8/_V6tDkvXiKsz5gucWFDlmuz_cRKkcYnBgCEwYBhgL/w140-h84-p/multishow.png" group-title="Globosat",Multishow
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1804
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="Music Box Brasil" tvg-logo="https://lh3.googleusercontent.com/-6aADd7VfOkM/W6aFLDL0BQI/AAAAAAAAAOI/ZjDjVu4rxG0QnywCw6BH4qANRiYlNLI_QCEwYBhgL/w140-h84-p/musicboxbrazil.png" group-title="Entretenimento",Music Box Brasil
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1806
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="https://lh3.googleusercontent.com/-kQheG7-dXEg/W6aFLt_mfnI/AAAAAAAAAOI/ymQY38OzlYcEMfVRVwyZ5mjMjkdvmByvQCEwYBhgL/w140-h84-p/natgeo.png" group-title="Documentarios",NatGeo
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1807
+#EXTINF:-1 tvg-id="NatGeo Kids HD" tvg-name="NatGeo Kids" tvg-logo="https://lh3.googleusercontent.com/-Zyzecyviwks/W6aFL7JtagI/AAAAAAAAAOU/Rp_p_l9V3L4NAwdHegu5ax5nSmoYLizswCEwYBhgL/w140-h84-p/natgeokids.png" group-title="Infantis",NatGeo Kids
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1810
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="https://lh3.googleusercontent.com/-SNK1kV9QIwc/W6aFMxeMWkI/AAAAAAAAAOc/nBQ8WUvTNUcrST5VIrNvEppovRjCfiBsQCEwYBhgL/w140-h84-p/natgeowild.png" group-title="Documentarios",NatGeo Wild
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1812
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nick" tvg-logo="https://lh3.googleusercontent.com/-4rA3Wxb5KR8/W6aFNQGG5fI/AAAAAAAAAPA/1BxBPow7ehQl4_jvDa7ax2lGsuiGjY9CACEwYBhgL/w140-h84-p/nick.png" group-title="Infantis",Nick
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1816
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." tvg-logo="https://lh3.googleusercontent.com/-91POmsWSjYY/W6aFNegGUgI/AAAAAAAAAOo/Glbdn3j8g3MmqtJtuEuZ_eok6xPdsqDCgCEwYBhgL/w140-h84-p/nickjr.png" group-title="Infantis",Nick Jr.
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1814
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="https://lh3.googleusercontent.com/-YC69RrIZ3sM/W6aEuYPwZNI/AAAAAAAAAOc/Sr6nDSFodqAJFKWoslkpxHyuotnYyYxIACEwYBhgL/w140-h84-p/canaloffb.png" group-title="Globosat",OFF
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1820
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" tvg-logo="https://lh3.googleusercontent.com/-5pEYHOvIxEQ/W6aFNizJL_I/AAAAAAAAAOM/ONxzEnlK0eI4kSTzgHGxsEyb4hfJB7uTgCEwYBhgL/w140-h84-p/paramount.png" group-title="Filmes",Paramount Channel
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1821
+#EXTINF:-1 tvg-id="" tvg-name="XX: Playboy" tvg-logo="https://lh3.googleusercontent.com/-2iOy8nVsAyk/W6aFQBrEuFI/AAAAAAAAAOw/-36-1VrflQwHZsMRQa0FJYV4cehGStZCgCEwYBhgL/w140-h84-p/playboytv.png" group-title="Adultos",XX: Playboy
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1823
+#EXTINF:-1 tvg-id="Prime Box Brasil" tvg-name="Prime Box Brasil" tvg-logo="https://lh3.googleusercontent.com/-S0G_gJu4O2w/W6aFRJSNVVI/AAAAAAAAAOE/1obMfSPMI2o4ABAne7cafOlgsT2Om8yvwCEwYBhgL/w140-h84-p/primeboxbrazil.png" group-title="Filmes",Prime Box Brasil
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1825
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="Record" tvg-logo="https://lh3.googleusercontent.com/-lre2UW1n-ls/W6aFSYSLarI/AAAAAAAAAOs/8WNrt_dpnnkMfmIfHqFnvnKhWFgzXPneACEwYBhgL/w140-h84-p/recordtv.png" group-title="Canais Abertos",Record
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1827
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="https://lh3.googleusercontent.com/-dXQurGzYZms/W6aFSI7oqXI/AAAAAAAAAOk/Z_6hS53vWo8uNlnP7EO1CPgmyvIDtPklACEwYBhgL/w140-h84-p/recordnews.png" group-title="Canais Abertos",Record News
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1830
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Rede Amazonica" tvg-logo="https://lh3.googleusercontent.com/-_BgjcnQ_PeQ/W6aFSiPl1kI/AAAAAAAAAO4/niK3JUP7DTQPtx6O_G-vcHyPXNAg9xfPwCEwYBhgL/w140-h84-p/redeamazonica.png" group-title="Canais Abertos",Rede Amazonica
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1832
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="EPTV Ribeirao Preto" tvg-logo="https://lh3.googleusercontent.com/-rO1ZT2oqaxk/W6aE1m2tQmI/AAAAAAAAAO0/czk5qyvXeug58SNY2tRg7tQPA1kSpdnqQCEwYBhgL/w140-h84-p/eptvrp.png" group-title="Canais Abertos",EPTV Ribeirao Preto
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1797
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="RPC Curitiba" tvg-logo="https://lh3.googleusercontent.com/-5cuduJLWUiI/W6aFTqRjoSI/AAAAAAAAAOo/Svho3mdrPLQfo6ZFvwkHr3a6Pcu29WCwQCEwYBhgL/w140-h84-p/rpc.png" group-title="Canais Abertos",RPC Curitiba
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1801
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TC Premium" tvg-logo="https://lh3.googleusercontent.com/-wb4g-R8xIrg/W6aFcGKyCjI/AAAAAAAAAOg/Gh7SWiP5dxcUYnopgzMvKZFgw4p_6pV2wCEwYBhgL/w140-h84-p/tcpremium.png" group-title="Telecine",TC Premium
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1793
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="TC Touch" tvg-logo="https://lh3.googleusercontent.com/-LrSoHi9o7WE/W6aFcuGnZhI/AAAAAAAAAO8/vCX9-hhqzO0Riw7KcU0XYzGy6fraKsqdQCEwYBhgL/w140-h84-p/tctouch.png" group-title="Telecine",TC Touch
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1792
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="TV Centro America Cuiaba" tvg-logo="https://lh3.googleusercontent.com/-WhX8RS4LT-E/W6aFhvT1xbI/AAAAAAAAAOI/gsAE_T8fzlAVHj_7d6Wa89KRtZNKT7pWQCEwYBhgL/w140-h84-p/tvcentroamerica.png" group-title="Canais Abertos",TV Centro America Cuiaba
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1803
+#EXTINF:-1 tvg-id="" tvg-name="TV Futura" tvg-logo="https://lh3.googleusercontent.com/-29o89dKedaw/W6aE8GlINnI/AAAAAAAAAOE/Ilk4LoFppFQWdP0K-olr-cVYAwRPvxBEQCEwYBhgL/w140-h84-p/futura.png" group-title="Canais Abertos",TV Futura
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1808
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="TV Tem Sao Jose do Rio Preto" tvg-logo="https://lh3.googleusercontent.com/-vrRH2vUmtxs/W6aFj1PnxLI/AAAAAAAAAOo/iXjsSl4UOqAC7d7aNiibNl8otJh6PLWywCEwYBhgL/w140-h84-p/tvtem.png" group-title="Canais Abertos",TV Tem Sao Jose do Rio Preto
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1811
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="TV Vanguarda Sao Jose dos Campos" tvg-logo="https://lh3.googleusercontent.com/-86cDwyY0dmE/W6aFgnRfQwI/AAAAAAAAAOo/R6IaFop-3qs9N0dHNBLQApJqCV_RHlDawCEwYBhgL/w140-h84-p/tvanhanguera.png" group-title="Canais Abertos",TV Vanguarda Sao Jose dos Campos
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1805
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 Mega Hits" tvg-logo="https://lh3.googleusercontent.com/-YhuZuXvZlGE/W6aFlVvOG8I/AAAAAAAAAOw/hNo4Utoe3GUaNvRCKDH4pXEBkiSoCtLrwCEwYBhgL/w140-h84-p/vh1hd.png" group-title="Entretenimento",VH1 Mega Hits
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1783
+#EXTINF:-1 tvg-id="Viva HD" tvg-name="Viva" tvg-logo="https://lh3.googleusercontent.com/-xG6V7zTNvEg/W6aFl77pWVI/AAAAAAAAAPA/Iwa3K-T2-u0r1imOq-PMTatBVedesSJyACEwYBhgL/w140-h84-p/viva.png" group-title="Globosat",Viva
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1785
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="https://lh3.googleusercontent.com/-ztFhLUsqS2E/W6aFmJPv7bI/AAAAAAAAAOw/LDFXr6GhL_sTJ305QR7MwJuiL8C47I5jACEwYBhgL/w140-h84-p/warnerchannel.png" group-title="Series",Warner Channel
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1790
+#EXTINF:-1 tvg-id="Boomerang HD" tvg-name="Boomerang HD" tvg-logo="https://lh3.googleusercontent.com/-Dlqhjy343zk/W6aEtwx5kiI/AAAAAAAAAO0/wC3FsheoXxU3d9E9d7Yr81smxqlx7UAtwCEwYBhgL/w140-h84-p/boomerang.png" group-title="Infantis",Boomerang HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1848
+#EXTINF:-1 tvg-id="ID: Investigacao HD" tvg-name="Discovery ID HD" tvg-logo="https://lh3.googleusercontent.com/-JV4w4htMa4U/W6aFGFnNLtI/AAAAAAAAAOI/UbNemdbYzrUOGA9OoFHEdgPmQ3l1E9xDACEwYBhgL/w140-h84-p/investigation.png" group-title="Documentarios",Discovery ID HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1870
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra HD" tvg-logo="https://lh3.googleusercontent.com/-J-zkJwrv9NI/W6aE25iF0uI/AAAAAAAAAOI/jrQjb1JgU3QpDikKt5QCip3hDVfYKIWqACEwYBhgL/w140-h84-p/espnextra.png" group-title="Esportes",ESPN Extra HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1843
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="https://lh3.googleusercontent.com/-3Lz9V4y3yPw/W6aE1rc9FAI/AAAAAAAAAOw/sp-STl98aVwQFqeHUxzXAl7fJMqEYazewCEwYBhgL/w140-h84-p/espn.png" group-title="Esportes",ESPN HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1838
+#EXTINF:-1 tvg-id="ESPN+" tvg-name="ESPN Plus HD" tvg-logo="https://lh3.googleusercontent.com/-PJw9DKGH1yE/W6aE3OItTRI/AAAAAAAAAOQ/ROFz8GMrvSYW2yX_XrX1-1C3Ef7vEnFfQCEwYBhgL/w140-h84-p/espnmaisb.png" group-title="Esportes",ESPN Plus HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1839
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV HD" tvg-logo="https://lh3.googleusercontent.com/-UOCnqOcEyxs/W6aE4dJMjgI/AAAAAAAAAO0/dREbnuTbYFgelOczWTv-bUR69YdseE5XQCEwYBhgL/w140-h84-p/fishtv.png" group-title="Variedades",Fish TV HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1846
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="Fox HD" tvg-logo="https://lh3.googleusercontent.com/-SoHzVhtPJcQ/W6aE5tDNcPI/AAAAAAAAAPA/9yThx_ee5AEMXm4jp9grg3i6IIylRFh9QCEwYBhgL/w140-h84-p/foxhd.png" group-title="Series",Fox HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1844
+#EXTINF:-1 tvg-id="FOX Premium 1 HD" tvg-name="Fox Premium 1 HD" tvg-logo="https://lh3.googleusercontent.com/-HwbS5SioqbM/W6aE6hO9HXI/AAAAAAAAAOc/6KZxM7_gun4ni-BQ1DIZmfIiiXjSR7G-gCEwYBhgL/w140-h84-p/foxpremium1.png" group-title="Series",Fox Premium 1 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1841
+#EXTINF:-1 tvg-id="FOX Premium 2 HD" tvg-name="Fox Premium 2 HD" tvg-logo="https://lh3.googleusercontent.com/-vgwAF9wX7fo/W6aE6y3wYCI/AAAAAAAAAO8/J5-NjoscTAQSrI2mZ3xFY-S-LOfQ6nHLwCEwYBhgL/w140-h84-p/foxpremium2.png" group-title="Series",Fox Premium 2 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1842
+#EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-name="Fox Sports 2 HD" tvg-logo="https://lh3.googleusercontent.com/-kLKsNBxPMf4/W6aE76e3VDI/AAAAAAAAAOQ/8pydlJyisy4tfJSID6JhkX9R3aIRR7WSgCEwYBhgL/w140-h84-p/foxsports2hd.png" group-title="Esportes",Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1845
+#EXTINF:-1 tvg-id="FOX Sports HD" tvg-name="Fox Sports 1 HD" tvg-logo="https://lh3.googleusercontent.com/-v-_f7biwKto/W6aE7yHq6pI/AAAAAAAAAOs/Y8n76h3f7cUzijzxONRYGTFY-8S8Gw_wgCEwYBhgL/w140-h84-p/foxsportshd.png" group-title="Esportes",Fox Sports 1 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1847
+#EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" tvg-logo="https://lh3.googleusercontent.com/-eWVu83JXTXI/W6aE8dKuB5I/AAAAAAAAAOk/JtiDzTnpYCAcnkJ7UC_oRvN2Ip8tRuhVQCEwYBhgL/w140-h64-p/fxhd.png" group-title="Series",FX HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1850
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT HD" tvg-logo="https://lh3.googleusercontent.com/-7pgFMdZpx2w/W6aFAIz0xWI/AAAAAAAAAOU/F6-2nk1GJFIy_WG0uYBFIHynxM3KkmdNACEwYBhgL/w140-h84-p/gnt.png" group-title="Globosat",GNT HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1852
+#EXTINF:-1 tvg-id="HBO2 HD" tvg-name="HBO 2 HD" tvg-logo="https://lh3.googleusercontent.com/-wbMLsmE6tlY/W6aFBoE3cFI/AAAAAAAAAOg/vCm1Uedw2osoho4dSQJ0oPk9I1dkWauJwCEwYBhgL/w140-h84-p/hbo2.png" group-title="HBO",HBO 2 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1854
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="https://lh3.googleusercontent.com/-TF3zam9UzHo/W6aFCBrMwqI/AAAAAAAAAOo/f6nAmk9cfWAzW11KNB3xaH8Fh14IjjInACEwYBhgL/w140-h84-p/hbofamily.png" group-title="HBO",HBO Family HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1856
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://lh3.googleusercontent.com/-xiojol3EBW4/W6aFBLhPH6I/AAAAAAAAAOg/dBjlb0T3DAwcq-jPp28jiNyWIU7S-tdWACEwYBhgL/w140-h84-p/hbo.png" group-title="HBO",HBO HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1858
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO Plus HD" tvg-logo="https://lh3.googleusercontent.com/-CTZLN_GA7dk/W6aFCgdnQUI/AAAAAAAAAOQ/MA_n5Go3hUYq3lgt18l1HBBfnytQFf7IwCEwYBhgL/w140-h84-p/hboplus.png" group-title="HBO",HBO Plus HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1860
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="https://lh3.googleusercontent.com/-vgYyRGdmXqg/W6aFDmHKPmI/AAAAAAAAAOU/0wGJWrYOgww87ubAZs9EbqKo74uaHhNwACEwYBhgL/w140-h84-p/hbosignature.png" group-title="HBO",HBO Signature HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1863
+#EXTINF:-1 tvg-id="History 2" tvg-name="History 2 HD" tvg-logo="https://lh3.googleusercontent.com/-MxjjfjaOgXU/W6aFAnhbQJI/AAAAAAAAAOQ/yvua2eR46okQrEHh_0udagjcwuIKwthMACEwYBhgL/w140-h84-p/h2.png" group-title="Documentarios",History 2 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1866
+#EXTINF:-1 tvg-id="The History Channel" tvg-name="History HD" tvg-logo="https://lh3.googleusercontent.com/-qCcH9AWeRnM/W6aFELOqF7I/AAAAAAAAAO4/RYX-AvxBBd4XBHWNKRYIKOw_8UMxdUxIACEwYBhgL/w140-h84-p/history.png" group-title="Documentarios",History HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1867
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://lh3.googleusercontent.com/-EHveWe5zzSo/W6aFHCPWUQI/AAAAAAAAAOo/xfxStM-7uA4tx6gQGORcGrE4or0BL_2twCEwYBhgL/w140-h84-p/lifetime.png" group-title="Variedades",Lifetime HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1879
+#EXTINF:-1 tvg-id="Max HD" tvg-name="Max HD" tvg-logo="https://lh3.googleusercontent.com/-mKEexgBRZMY/W6aFIG0e7pI/AAAAAAAAAOE/0ewxQgkxzgcYrnI8bVBHNcTMBD3HxVIrgCEwYBhgL/w140-h84-p/max.png" group-title="HBO",Max HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1876
+#EXTINF:-1 tvg-id="Max Prime HD" tvg-name="Max Prime HD" tvg-logo="https://lh3.googleusercontent.com/-bH9RKE3e5VU/W6aFIq617JI/AAAAAAAAAO8/4F2EEDMJewkoUoQK7JBniFhUEJqRhKbeQCEwYBhgL/w140-h84-p/maxprime.png" group-title="HBO",Max Prime HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1874
+#EXTINF:-1 tvg-id="Max Up HD" tvg-name="Max UP HD" tvg-logo="https://lh3.googleusercontent.com/-t0T8PwqKP70/W6aFJBR-hzI/AAAAAAAAAOw/Aj9nyXLWLGk9dyLYKl7kebpWw09d6ZhOQCEwYBhgL/w140-h84-p/maxup.png" group-title="HBO",Max UP HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1871
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="Megapix HD" tvg-logo="https://lh3.googleusercontent.com/-SaFd_KaLBVw/W6aFJVJVJ7I/AAAAAAAAAOo/smTD8eKqANAXvuwxvAhfzylTZeXpI33RwCEwYBhgL/w140-h84-p/megapixb.png" group-title="Filmes",Megapix HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1873
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://lh3.googleusercontent.com/-m8RCMjfjhiU/W6aFKCyZilI/AAAAAAAAAOk/EDRD1DzLuvIuyiu0HQ--WSeFylLQwPkFQCEwYBhgL/w140-h84-p/mtv.png" group-title="Entretenimento",MTV HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1869
+#EXTINF:-1 tvg-id="Multishow HD" tvg-name="Multishow HD" tvg-logo="https://lh3.googleusercontent.com/-kH0oRWR7R3c/W6aFKrt0j0I/AAAAAAAAAO8/_V6tDkvXiKsz5gucWFDlmuz_cRKkcYnBgCEwYBhgL/w140-h84-p/multishow.png" group-title="Globosat",Multishow HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1875
+#EXTINF:-1 tvg-id="NatGeo HD" tvg-name="NatGeo HD" tvg-logo="https://lh3.googleusercontent.com/-kQheG7-dXEg/W6aFLt_mfnI/AAAAAAAAAOI/ymQY38OzlYcEMfVRVwyZ5mjMjkdvmByvQCEwYBhgL/w140-h84-p/natgeo.png" group-title="Documentarios",NatGeo HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1877
+#EXTINF:-1 tvg-id="NatGeo Kids HD" tvg-name="NatGeo Kids HD" tvg-logo="https://lh3.googleusercontent.com/-Zyzecyviwks/W6aFL7JtagI/AAAAAAAAAOU/Rp_p_l9V3L4NAwdHegu5ax5nSmoYLizswCEwYBhgL/w140-h84-p/natgeokids.png" group-title="Infantis",NatGeo Kids HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1868
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NatGeo Wild HD" tvg-logo="https://lh3.googleusercontent.com/-SNK1kV9QIwc/W6aFMxeMWkI/AAAAAAAAAOc/nBQ8WUvTNUcrST5VIrNvEppovRjCfiBsQCEwYBhgL/w140-h84-p/natgeowild.png" group-title="Documentarios",NatGeo Wild HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1878
+#EXTINF:-1 tvg-id="Nick Jr. HD" tvg-name="Nick Jr. HD" tvg-logo="https://lh3.googleusercontent.com/-91POmsWSjYY/W6aFNegGUgI/AAAAAAAAAOo/Glbdn3j8g3MmqtJtuEuZ_eok6xPdsqDCgCEwYBhgL/w140-h84-p/nickjr.png" group-title="Infantis",Nick Jr. HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1865
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="Nick HD" tvg-logo="https://lh3.googleusercontent.com/-4rA3Wxb5KR8/W6aFNQGG5fI/AAAAAAAAAPA/1BxBPow7ehQl4_jvDa7ax2lGsuiGjY9CACEwYBhgL/w140-h84-p/nick.png" group-title="Infantis",Nick HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1864
+#EXTINF:-1 tvg-id="Off HD" tvg-name="OFF HD" tvg-logo="https://lh3.googleusercontent.com/-YC69RrIZ3sM/W6aEuYPwZNI/AAAAAAAAAOc/Sr6nDSFodqAJFKWoslkpxHyuotnYyYxIACEwYBhgL/w140-h84-p/canaloffb.png" group-title="Globosat",OFF HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1880
+#EXTINF:-1 tvg-id="Paramount Channel HD" tvg-name="Paramount Channel HD" tvg-logo="https://lh3.googleusercontent.com/-5pEYHOvIxEQ/W6aFNizJL_I/AAAAAAAAAOM/ONxzEnlK0eI4kSTzgHGxsEyb4hfJB7uTgCEwYBhgL/w140-h84-p/paramount.png" group-title="Filmes",Paramount Channel HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1881
+#EXTINF:-1 tvg-id="" tvg-name="XX: Playboy HD" tvg-logo="https://lh3.googleusercontent.com/-2iOy8nVsAyk/W6aFQBrEuFI/AAAAAAAAAOw/-36-1VrflQwHZsMRQa0FJYV4cehGStZCgCEwYBhgL/w140-h84-p/playboytv.png" group-title="Adultos",XX: Playboy HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1849
+#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="Studio Universal HD" tvg-logo="https://lh3.googleusercontent.com/-Hy1TBQi9vag/W6aFXYo-wtI/AAAAAAAAAO4/rtOYpJk3unc-FhKnD8NJlBnH47IYhhZ5ACEwYBhgL/w140-h84-p/studiouniversal.png" group-title="Series",Studio Universal HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1862
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="Syfy HD" tvg-logo="https://lh3.googleusercontent.com/-6dXdUtAIW_U/W6aFYysusNI/AAAAAAAAAOE/LoE-2h6qXnUDQxTKkVhMRzxaGTpg0RxrQCEwYBhgL/w140-h84-p/syfy.png" group-title="Series",Syfy HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1859
+#EXTINF:-1 tvg-id="TC Cult HD" tvg-name="TC Cult HD" tvg-logo="https://lh3.googleusercontent.com/-1v5Y8HVlzDs/W6aFZzmarHI/AAAAAAAAAPA/3ADsbm75Cn8dv_OTUEbmNbakpoLHDcVngCEwYBhgL/w140-h67-p/tccult.png" group-title="Telecine",TC Cult HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1855
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="https://lh3.googleusercontent.com/-dhIOxSWrLH0/W6aFdv22UWI/AAAAAAAAAO8/OsGQxrjCDQwrQ8ekbvAnII0AyJ5PUzpdQCEwYBhgL/w140-h84-p/tlc.png" group-title="Variedades",TLC HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1857
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 HD" tvg-logo="https://lh3.googleusercontent.com/-YhuZuXvZlGE/W6aFlVvOG8I/AAAAAAAAAOw/hNo4Utoe3GUaNvRCKDH4pXEBkiSoCtLrwCEwYBhgL/w140-h84-p/vh1hd.png" group-title="Entretenimento",VH1 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1853
+#EXTINF:-1 tvg-id="WooHoo HD" tvg-name="Woohoo HD" tvg-logo="https://lh3.googleusercontent.com/-lEqWGssepK4/W6aFmtIKZ_I/AAAAAAAAAO0/DdlIlVmJgYkom3xwWK3dt4oJUCXW7K3fgCEwYBhgL/w140-h84-p/woohoo.png" group-title="Variedades",Woohoo HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1851
+#EXTINF:-1 tvg-id="AeE HD" tvg-name="AeE HD" tvg-logo="https://lh3.googleusercontent.com/-Z0eE10KhbCE/W6aEoqjBWCI/AAAAAAAAAOU/GDGdzWuMbDk24UR6vuMfRH4_6LaO2ODGgCEwYBhgL/w140-h84-p/a%2526e.png" group-title="Series",AeE HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1907
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="https://lh3.googleusercontent.com/-Wk1vm7_7qOQ/W6aEoweBFcI/AAAAAAAAAOs/c21b2foaoN8cPdFUjVCZFne9ay9A8tFZgCEwYBhgL/w140-h84-p/amc.png" group-title="Filmes",AMC HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1905
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="https://lh3.googleusercontent.com/-BmSwdwY0kwg/W6aEvbCIEXI/AAAAAAAAAO4/A3S1h87tudgL4bmfCV-MH60LsiNFlV7aQCEwYBhgL/w140-h84-p/cartoonnetwork.png" group-title="Infantis",Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1903
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="https://lh3.googleusercontent.com/-gjomuCwsXo0/W6aEvx0nv0I/AAAAAAAAAOI/jYUffMuQubkI4YGEYCYQfof2sWhEBCzBwCEwYBhgL/w140-h84-p/cinemax.png" group-title="HBO",Cinemax HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1901
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="https://lh3.googleusercontent.com/-TcF9NyqfiLs/W6aExDVVtaI/AAAAAAAAAOM/-HY3SCXy41QcILNibAXrTurea87S9u8xwCEwYBhgL/w140-h84-p/combate.png" group-title="Premieres",Combate HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1916
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="https://lh3.googleusercontent.com/-LM60vcGnyU8/W6aExRwKwpI/AAAAAAAAAO4/oou0LW34Qg4U3mUYYyfXv6c2LhZYO17RwCEwYBhgL/w140-h84-p/comedycentral.png" group-title="Series",Comedy Central HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1900
+#EXTINF:-1 tvg-id="Discovery Civilization HD" tvg-name="Discovery Civilization HD" tvg-logo="https://lh3.googleusercontent.com/-8uwalufgxk0/W6aEx_UIRsI/AAAAAAAAAOU/HWeHbPIRBCkbDUuheHuAt_G90E9gNcOIQCEwYBhgL/w140-h84-p/discoverycivilization.png" group-title="Documentarios",Discovery Civilization HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1898
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids HD" tvg-logo="https://lh3.googleusercontent.com/-pxY5HKjjp5s/W6aEyH4pPAI/AAAAAAAAAOs/U4KbOoui8g0ZluklfbJpvdIG0zpePIYagCEwYBhgL/w140-h84-p/discoverykids.png" group-title="Infantis",Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1897
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="Discovery Science HD" tvg-logo="https://lh3.googleusercontent.com/-e3EqceuFRWU/W6aEy7FQ_-I/AAAAAAAAAO8/BH4MGCPX1MMkTmxMCQsOgqqK5npJfD4eQCEwYBhgL/w140-h84-p/discoveryscience.png" group-title="Documentarios",Discovery Science HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1895
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Disney Channel HD" tvg-logo="https://lh3.googleusercontent.com/-qcjNFPpUQmo/W6aE0O3v3YI/AAAAAAAAAOw/z85KfRG-IqgBonBsu_O07mrUVdb7cU37ACEwYBhgL/w140-h84-p/disney.png" group-title="Infantis",Disney Channel HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1893
+#EXTINF:-1 tvg-id="E! HD" tvg-name="E! HD" tvg-logo="https://lh3.googleusercontent.com/-gUaSrdgMFqo/W6aEooPyu4I/AAAAAAAAAO4/MdUHUmPkebw3Ysl9CeLnnwwBr-kx3PzhgCEwYBhgL/w140-h84-p/Echannel.png" group-title="Variedades",E! HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1892
+#EXTINF:-1 tvg-id="Food Network HD" tvg-name="Food Network HD" tvg-logo="https://lh3.googleusercontent.com/-kWT7kONefJs/W6aE4sHQ4ZI/AAAAAAAAAOs/jkAiX0cCiiYLCR7E5K5ISPI65WDanWaDwCEwYBhgL/w140-h84-p/foodnetwork.png" group-title="Variedades",Food Network HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1890
+#EXTINF:-1 tvg-id="FOX Life HD" tvg-name="Fox Life HD" tvg-logo="https://lh3.googleusercontent.com/-nBW8ssm3btU/W6aE6C0zhqI/AAAAAAAAAOg/qAV-VfPmQNwvfsjTs7nk5pxYVQeFQzpfACEwYBhgL/w140-h84-p/foxlife.png" group-title="Variedades",Fox Life HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1888
+#EXTINF:-1 tvg-id="Globo News HD" tvg-name="Globo News HD" tvg-logo="https://lh3.googleusercontent.com/-D3emj_JCSPs/W6aE93KLsoI/AAAAAAAAAOE/kJ5HN0ffztEcsinqGlM_1_12xf1LwYv_wCEwYBhgL/w140-h84-p/globonews.png" group-title="Globosat",Globo News HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1887
+#EXTINF:-1 tvg-id="Rede Globo SP" tvg-name="Globo RJ" tvg-logo="https://lh3.googleusercontent.com/-JhE5El8zXaw/W6aE-HbGebI/AAAAAAAAAOo/Th7_x5RMwFEcMwGZAP04CWuSVsw1EdtWACEwYBhgL/w140-h84-p/globorj.png" group-title="Canais Abertos",Globo RJ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1935
+#EXTINF:-1 tvg-id="Rede Globo HD SP" tvg-name="Globo RJ HD" tvg-logo="https://lh3.googleusercontent.com/-JhE5El8zXaw/W6aE-HbGebI/AAAAAAAAAOo/Th7_x5RMwFEcMwGZAP04CWuSVsw1EdtWACEwYBhgL/w140-h84-p/globorj.png" group-title="Canais Abertos",Globo RJ HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1936
+#EXTINF:-1 tvg-id="Mais Globosat HD" tvg-name="Mais Globosat HD" tvg-logo="https://lh3.googleusercontent.com/-9oqlXZlImDQ/W6aFHmeOjUI/AAAAAAAAAOQ/fAQKCgVTkLQ3Ao14mcunJq2LZH0AVPCngCEwYBhgL/w140-h84-p/maisglobosatb.png" group-title="Globosat",Mais Globosat HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1886
+#EXTINF:-1 tvg-id="" tvg-name="Gloob HD" tvg-logo="https://lh3.googleusercontent.com/-KOffSoezP0o/W6aE_FSrlvI/AAAAAAAAAOo/wPDGPmdWSYAvtmLeTUFjNy5gwp5umEQhwCEwYBhgL/w140-h84-p/gloob.png" group-title="Infantis",Gloob HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1882
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="https://lh3.googleusercontent.com/-kDPwjxWPCro/W6aFN1M67LI/AAAAAAAAAO8/qKbqOOKMtnswT8mTofMuAlNvAJ9NMMxpQCEwYBhgL/w140-h84-p/pfc2.png" group-title="Premieres",Premiere 2
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1919
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 HD" tvg-logo="https://lh3.googleusercontent.com/-kDPwjxWPCro/W6aFN1M67LI/AAAAAAAAAO8/qKbqOOKMtnswT8mTofMuAlNvAJ9NMMxpQCEwYBhgL/w140-h84-p/pfc2.png" group-title="Premieres",Premiere 2 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1920
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="https://lh3.googleusercontent.com/-jMYt9k6LTFc/W6aFNzeaD5I/AAAAAAAAAOw/C2M9yp_GIQciguq2XOOHipjOIY_xhEjEACEwYBhgL/w140-h84-p/pfc3.png" group-title="Premieres",Premiere 3
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1921
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 HD" tvg-logo="https://lh3.googleusercontent.com/-jMYt9k6LTFc/W6aFNzeaD5I/AAAAAAAAAOw/C2M9yp_GIQciguq2XOOHipjOIY_xhEjEACEwYBhgL/w140-h84-p/pfc3.png" group-title="Premieres",Premiere 3 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1922
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4" tvg-logo="https://lh3.googleusercontent.com/-MRywaV9gQt4/W6aFOCvoJhI/AAAAAAAAAO4/irUaqWKNqXYWu0YJHFoVY1PnkBGtxbwvQCEwYBhgL/w140-h84-p/pfc4.png" group-title="Premieres",Premiere 4
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1923
+#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4 HD" tvg-logo="https://lh3.googleusercontent.com/-MRywaV9gQt4/W6aFOCvoJhI/AAAAAAAAAO4/irUaqWKNqXYWu0YJHFoVY1PnkBGtxbwvQCEwYBhgL/w140-h84-p/pfc4.png" group-title="Premieres",Premiere 4 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1925
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5" tvg-logo="https://lh3.googleusercontent.com/-tZrPXAIeRMg/W6aFOtl3ArI/AAAAAAAAAOc/3n6chWF6OEwD2e8zMM4-Ym1wVXuIIqyWACEwYBhgL/w140-h84-p/pfc5.png" group-title="Premieres",Premiere 5
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1926
+#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5 HD" tvg-logo="https://lh3.googleusercontent.com/-tZrPXAIeRMg/W6aFOtl3ArI/AAAAAAAAAOc/3n6chWF6OEwD2e8zMM4-Ym1wVXuIIqyWACEwYBhgL/w140-h84-p/pfc5.png" group-title="Premieres",Premiere 5 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1927
+#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="Premiere 6" tvg-logo="https://lh3.googleusercontent.com/-B5hEnN40SVA/W6aFPCtSmeI/AAAAAAAAAOc/kPJNt5HW4Rk8klKK5nkI8hbkhkKydc20ACEwYBhgL/w140-h84-p/pfc6.png" group-title="Premieres",Premiere 6
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1928
+#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="Premiere 6 HD" tvg-logo="https://lh3.googleusercontent.com/-B5hEnN40SVA/W6aFPCtSmeI/AAAAAAAAAOc/kPJNt5HW4Rk8klKK5nkI8hbkhkKydc20ACEwYBhgL/w140-h84-p/pfc6.png" group-title="Premieres",Premiere 6 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1929
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7" tvg-logo="https://lh3.googleusercontent.com/-vCXZg_pE2nM/W6aFP0GJACI/AAAAAAAAAOc/--q1KqUt6wY6Swv8jDIbAZuJUeI6C4yxACEwYBhgL/w140-h84-p/pfc7.png" group-title="Premieres",Premiere 7
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1931
+#EXTINF:-1 tvg-id="Premiere 7 HD" tvg-name="Premiere 7 HD" tvg-logo="https://lh3.googleusercontent.com/-vCXZg_pE2nM/W6aFP0GJACI/AAAAAAAAAOc/--q1KqUt6wY6Swv8jDIbAZuJUeI6C4yxACEwYBhgL/w140-h84-p/pfc7.png" group-title="Premieres",Premiere 7 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1932
+#EXTINF:-1 tvg-id="Premiere 8" tvg-name="Premiere 8" tvg-logo="https://lh3.googleusercontent.com/-I80In14oOgU/W6aFQOKCcNI/AAAAAAAAAO8/Ev0gWr-dW3UxDZUBX5V7gLIPBohEiO1IACEwYBhgL/w140-h84-p/pfc8.png" group-title="Premieres",Premiere 8
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1933
+#EXTINF:-1 tvg-id="Premiere 1" tvg-name="Premiere 1" tvg-logo="https://lh3.googleusercontent.com/-1LqZu6IwSOY/W6aFNg4ozBI/AAAAAAAAAOw/b1RH6Gf05d0Ftq22w5i8d1nrdfk11lMzACEwYBhgL/w140-h84-p/pfc.png" group-title="Premieres",Premiere 1
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1917
+#EXTINF:-1 tvg-id="Premiere 1 HD" tvg-name="Premiere 1 HD" tvg-logo="https://lh3.googleusercontent.com/-1LqZu6IwSOY/W6aFNg4ozBI/AAAAAAAAAOw/b1RH6Gf05d0Ftq22w5i8d1nrdfk11lMzACEwYBhgL/w140-h84-p/pfc.png" group-title="Premieres",Premiere 1 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1918
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="RBS TV" tvg-logo="https://lh3.googleusercontent.com/-VDaLwnkdoUc/W6aFR9RxkWI/AAAAAAAAAOQ/t7E42oWJ6p0fbxp3kMfL2e4gW0GSCjXSACEwYBhgL/w140-h84-p/rbs.png" group-title="Canais Abertos",RBS TV
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1934
+#EXTINF:-1 tvg-id="Record HD" tvg-name="Record HD" tvg-logo="https://lh3.googleusercontent.com/-lre2UW1n-ls/W6aFSYSLarI/AAAAAAAAAOs/8WNrt_dpnnkMfmIfHqFnvnKhWFgzXPneACEwYBhgL/w140-h84-p/recordtv.png" group-title="Canais Abertos",Record HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1883
+#EXTINF:-1 tvg-id="Rede Vida HD" tvg-name="Rede TV HD" tvg-logo="https://lh3.googleusercontent.com/-OcDOAT7ZN2g/W6aFTYBRsbI/AAAAAAAAAOM/0QCedDuPVDw4Z-x3mLIMw7GjUNO579N4ACEwYBhgL/w140-h84-p/redetv.png" group-title="Canais Abertos",Rede TV HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1884
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://lh3.googleusercontent.com/-REBSBfL4VgM/W6aFT1qPImI/AAAAAAAAAOE/Wvje02epX1IO1Wi8t-9DytqnfnrSmXALACEwYBhgL/w140-h84-p/sbt.png" group-title="Canais Abertos",SBT HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1885
+#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="https://lh3.googleusercontent.com/--KM3OMNJRfc/W6aFWZEZZuI/AAAAAAAAAOk/MXYPYN_3cd8smnI53xKnKS7YF3e5UD7hACEwYBhgL/w140-h84-p/space.png" group-title="Filmes",Space HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1889
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SporTV 2 HD" tvg-logo="https://lh3.googleusercontent.com/-V0DzpvtIuuY/W6aFWmTlbSI/AAAAAAAAAOI/RMQ_X5RJcIk8vGO09yWIVWBbmEZQPHgowCEwYBhgL/w140-h84-p/sportv2.png" group-title="Esportes",SporTV 2 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1891
+#EXTINF:-1 tvg-id="SporTV 3 HD" tvg-name="SporTV 3 HD" tvg-logo="https://lh3.googleusercontent.com/-9Ym_QSKUriQ/W6aFXHXuUGI/AAAAAAAAAOM/Np9kFEPr9sQ94FpRyqhuxL5ehi0zadI1wCEwYBhgL/w140-h84-p/sportv3.png" group-title="Esportes",SporTV 3 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1894
+#EXTINF:-1 tvg-id="SporTV HD" tvg-name="SporTV 1 HD" tvg-logo="https://lh3.googleusercontent.com/-VfvA5qSoNOk/W6aFWkLpugI/AAAAAAAAAO4/wvUmxbwOFuwImYI-ANc7uPPgsNGmk0ofACEwYBhgL/w140-h84-p/sportv.png" group-title="Esportes",SporTV 1 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1896
+#EXTINF:-1 tvg-id="TBS HD" tvg-name="TBS HD" tvg-logo="https://lh3.googleusercontent.com/-kfRmcfGBtr4/W6aFZPxP4OI/AAAAAAAAAOE/gRANjCjSjMQJE7waP3KUORcJFZcTPld4gCEwYBhgL/w140-h75-p/tbs.png" group-title="Series",TBS HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1899
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="TC Action HD" tvg-logo="https://lh3.googleusercontent.com/-5GgjrKE51uc/W6aFZqy3c0I/AAAAAAAAAOg/c8Lz-SmP9Hkrj2m-wICpc_gDUpgAu6N1wCEwYBhgL/w140-h84-p/tcaction1.png" group-title="Telecine",TC Action HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1902
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="TC Fun HD" tvg-logo="https://lh3.googleusercontent.com/-oV67h1z-Mfo/W6aFaoCEbGI/AAAAAAAAAOk/oG8gEyAUVzEkr1o1lTtWspoPfLGnlNy0wCEwYBhgL/w140-h84-p/tcfun.png" group-title="Telecine",TC Fun HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1904
+#EXTINF:-1 tvg-id="TC Pipoca HD" tvg-name="TC Pipoca HD" tvg-logo="https://lh3.googleusercontent.com/-49KwHjqEI28/W6aFbuBF7XI/AAAAAAAAAPA/hdWRhaYqoLs2uiMo0ONOWcVYX3Y-OnOCgCEwYBhgL/w140-h84-p/tcpipoca.png" group-title="Telecine",TC Pipoca HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1906
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="TC Premium HD" tvg-logo="https://lh3.googleusercontent.com/-wb4g-R8xIrg/W6aFcGKyCjI/AAAAAAAAAOg/Gh7SWiP5dxcUYnopgzMvKZFgw4p_6pV2wCEwYBhgL/w140-h84-p/tcpremium.png" group-title="Telecine",TC Premium HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1908
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="TC Touch HD" tvg-logo="https://lh3.googleusercontent.com/-LrSoHi9o7WE/W6aFcuGnZhI/AAAAAAAAAO8/vCX9-hhqzO0Riw7KcU0XYzGy6fraKsqdQCEwYBhgL/w140-h84-p/tctouch.png" group-title="Telecine",TC Touch HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1909
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://lh3.googleusercontent.com/-2SkoXJGbBYA/W6aFeL39xTI/AAAAAAAAAOM/6oDPlM2i2y8-OY_l3u09TlZ8Gb213K9sgCEwYBhgL/w140-h84-p/tnt.png" group-title="Filmes",TNT HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1911
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series HD" tvg-logo="https://lh3.googleusercontent.com/-mlbNmC5_Kis/W6aFevhjeQI/AAAAAAAAAOQ/oIsqdFBUh9camDEpP6QqTqnTs7SdHKjGACEwYBhgL/w140-h84-p/tntseries.png" group-title="Series",TNT Series HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1913
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="Universal Channel HD" tvg-logo="https://lh3.googleusercontent.com/-EHSDWjexCfs/W6aFleyabXI/AAAAAAAAAO0/fFynMvYK0qMtI-0UyhbrqJWsg8dl5PBXQCEwYBhgL/w140-h84-p/universalchannel.png" group-title="Series",Universal Channel HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1914
+#EXTINF:-1 tvg-id="Viva HD" tvg-name="Viva HD" tvg-logo="https://lh3.googleusercontent.com/-xG6V7zTNvEg/W6aFl77pWVI/AAAAAAAAAPA/Iwa3K-T2-u0r1imOq-PMTatBVedesSJyACEwYBhgL/w140-h84-p/viva.png" group-title="Globosat",Viva HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1912
+#EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="Warner Channel HD" tvg-logo="https://lh3.googleusercontent.com/-ztFhLUsqS2E/W6aFmJPv7bI/AAAAAAAAAOw/LDFXr6GhL_sTJ305QR7MwJuiL8C47I5jACEwYBhgL/w140-h84-p/warnerchannel.png" group-title="Series",Warner Channel HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/entectop@gmail.com/JrtAnH/1910
