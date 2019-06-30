@@ -1,0 +1,441 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://encurtador.com.KALL/CHQU4" group-title="", CANAL RICOS
+http://video01.kshost.com.KALL/canalricos548/canalricos548/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.MiCine.jpg" group-title="Canais 24h|KALL",Action Movies
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6579.ts
+#EXTINF:-1 tvg-id="" tvg-name="Family Movies" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.MiCine.jpg" group-title="Canais 24h|KALL",Family Movies
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6580.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mr Bean" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Mr.Ben.jpg" group-title="Canais 24h|KALL",Mr Bean
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/4784.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry" tvg-logo="" group-title="Canais 24h|KALL",Tom & Jerry
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5081.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi" tvg-logo="" group-title="Canais 24h|KALL",Mazzaropi
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/4783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Canal_Brasil.jpg" group-title="Canais Abertos|KALL",Canal Brasil
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/11367.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Band_HD.jpg" group-title="Canais Abertos|KALL",BAND HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5994.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Band.jpg" group-title="Canais Abertos|KALL",BAND
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5995.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Brasil" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Globo.jpg" group-title="Canais Abertos|KALL",Globo Brasil
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5986.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="Canais Abertos|KALL",Globo SP HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5619.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="Canais Abertos|KALL",Globo SP
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5620.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo MG HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Globo.jpg" group-title="Canais Abertos|KALL",Globo MG HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5628.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo MG" tvg-logo="" group-title="Canais Abertos|KALL",Globo MG
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5629.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ HD" tvg-logo="" group-title="Canais Abertos|KALL",Globo RJ HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5622.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="Canais Abertos|KALL",Globo RJ
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5623.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Globo.jpg" group-title="Canais Abertos|KALL",Globo Nordeste
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/12177.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record SP HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Record.jpg" group-title="Canais Abertos|KALL",Record SP HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6184.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record SP" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Record.jpg" group-title="Canais Abertos|KALL",Record SP
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5990.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Rede_TV.jpg" group-title="Canais Abertos|KALL",REDE TV HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6195.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Rede_TV.jpg" group-title="Canais Abertos|KALL",REDE TV
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6196.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.SBT.jpg" group-title="Canais Abertos|KALL",SBT HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6193.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="" group-title="Canais Abertos|KALL",SBT
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6194.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.TV_Gazeta.jpg" group-title="Canais Abertos|KALL",TV Gazeta
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/12176.ts
+#EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Futura.jpg" group-title="Canais Abertos|KALL",Futura
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/12174.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Cultura.jpg" group-title="Canais Abertos|KALL",Cultura
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/12173.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND News HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.BAND_News_HD.jpg" group-title="Noticias|KALL",BAND News HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5991.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND News" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.BAND_News.jpg" group-title="Noticias|KALL",BAND News
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5992.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.E!.jpg" group-title="Noticias|KALL",E! HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6119.ts
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.E!.jpg" group-title="Noticias|KALL",E!
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6120.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo News HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Globo_News_HD.jpg" group-title="Noticias|KALL",Globo News HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5626.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo News" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Globo_News.jpg" group-title="Noticias|KALL",Globo News
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5627.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record News HD" tvg-logo="" group-title="Noticias|KALL",Record News HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5987.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Record_News.jpg" group-title="Noticias|KALL",Record News
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5988.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Universal_Channel_HD.jpg" group-title="Filmes e Series|KALL",Universal Channel HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5655.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Universal_Channel.jpg" group-title="Filmes e Series|KALL",Universal Channel
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5656.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Fox.jpg" group-title="Filmes e Series|KALL",FOX HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6202.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Fox.jpg" group-title="Filmes e Series|KALL",FOX
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6203.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Fox_Premium_1.jpg" group-title="Filmes e Series|KALL",Fox Premium 1 HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5639.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Fox_Premium_2_HD.jpg" group-title="Filmes e Series|KALL",Fox Premium 2 HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5638.ts
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Warner_Channel_HD.jpg" group-title="Filmes e Series|KALL",Warner Channel HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6200.ts
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Warner_Channel.jpg" group-title="Filmes e Series|KALL",Warner Channel
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6201.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal SONY HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Canal_Sony_HD.jpg" group-title="Filmes e Series|KALL",Canal SONY HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6199.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony" tvg-logo="" group-title="Filmes e Series|KALL",Canal Sony
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5652.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.TNT_Series_HD.jpg" group-title="Filmes e Series|KALL",TNT Series HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6197.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.TNT_Series.jpg" group-title="Filmes e Series|KALL",TNT Series
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6198.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.AXN_HD.jpg" group-title="Filmes e Series|KALL",AXN HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5564.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.AXN.jpg" group-title="Filmes e Series|KALL",AXN
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3847.ts
+#EXTINF:-1 tvg-id="" tvg-name="Life Time HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Lifetime_HD.jpg" group-title="Filmes e Series|KALL",Life Time HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5643.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Lifetime.jpg" group-title="Filmes e Series|KALL",Lifetime
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6205.ts
+#EXTINF:-1 tvg-id="" tvg-name="SyFy HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.SyFy_HD.jpg" group-title="Filmes e Series|KALL",SyFy HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5644.ts
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.SyFy.jpg" group-title="Filmes e Series|KALL",SyFy
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5645.ts
+#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Multishow_HD.jpg" group-title="Filmes e Series|KALL",Multishow HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3131.ts
+#EXTINF:-1 tvg-id="" tvg-name="Multishow" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Multishow.jpg" group-title="Filmes e Series|KALL",Multishow
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3839.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.H2_HD.jpg" group-title="Filmes e Series|KALL",H2 HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6278.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.H2.jpg" group-title="Filmes e Series|KALL",H2
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3860.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.FX_HD.jpg" group-title="Filmes e Series|KALL",FX HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5650.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.FX.jpg" group-title="Filmes e Series|KALL",FX
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5651.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Telecine_Touch_HD.jpg" group-title="Filmes e Series|KALL",Telecine Touch HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5657.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Telecine_Touch.jpg" group-title="Filmes e Series|KALL",Telecine Touch
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5658.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Telecine_Cult_HD.jpg" group-title="Filmes e Series|KALL",Telecine Cult HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5569.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Telecine_Cult.jpg" group-title="Filmes e Series|KALL",Telecine Cult
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3854.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.HBO_Family_HD.jpg" group-title="Filmes e Series|KALL",HBO Family HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/7445.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.HBO_Family.jpg" group-title="Filmes e Series|KALL",HBO Family
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3853.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="Filmes e Series|KALL",TCM HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/7446.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.TCM.jpg" group-title="Filmes e Series|KALL",TCM
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5665.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.HBO_Plus.jpg" group-title="Filmes e Series|KALL",HBO Plus
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3852.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus*e" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.HBO_Plus.jpg" group-title="Filmes e Series|KALL",HBO Plus*e
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3851.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.HBO_Signature.jpg" group-title="Filmes e Series|KALL",HBO Signature
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3850.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Telecine_Premium_HD.jpg" group-title="Filmes e Series|KALL",Telecine Premium HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5659.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Telecine_Premium.jpg" group-title="Filmes e Series|KALL",Telecine Premium
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3859.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Telecine_Action_HD.jpg" group-title="Filmes e Series|KALL",Telecine Action HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5568.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Telecine_Action.jpg" group-title="Filmes e Series|KALL",Telecine Action
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3858.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Telecine_Fun_HD.jpg" group-title="Filmes e Series|KALL",Telecine Fun HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5570.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Telecine_Fun.jpg" group-title="Filmes e Series|KALL",Telecine Fun
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3857.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.HBO_HD.jpg" group-title="Filmes e Series|KALL",HBO HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6207.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.HBO.jpg" group-title="Filmes e Series|KALL",HBO
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3849.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.HBO2_HD.jpg" group-title="Filmes e Series|KALL",HBO 2 HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6208.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.HBO2.jpg" group-title="Filmes e Series|KALL",HBO 2
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3848.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.TBS_HD.jpg" group-title="Filmes e Series|KALL",TBS HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5646.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.TBS.jpg" group-title="Filmes e Series|KALL",TBS
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5647.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Paramount_HD.jpg" group-title="Filmes e Series|KALL",Paramount HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5666.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Paramount.jpg" group-title="Filmes e Series|KALL",Paramount
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5667.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.TNT_HD.jpg" group-title="Filmes e Series|KALL",TNT HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5676.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.TNT.jpg" group-title="Filmes e Series|KALL",TNT
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5677.ts
+#EXTINF:-1 tvg-id="" tvg-name="Megapix HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Megapix.jpg" group-title="Filmes e Series|KALL",Megapix HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5674.ts
+#EXTINF:-1 tvg-id="" tvg-name="Megapix" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Megapix.jpg" group-title="Filmes e Series|KALL",Megapix
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5675.ts
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Space_HD.jpg" group-title="Filmes e Series|KALL",Space HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5672.ts
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Space.jpg" group-title="Filmes e Series|KALL",Space
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5673.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Cinemax_HD.jpg" group-title="Filmes e Series|KALL",Cinemax HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5670.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Cinemax.jpg" group-title="Filmes e Series|KALL",Cinemax
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5671.ts
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Studio_Universal_HD.jpg" group-title="Filmes e Series|KALL",Studio Universal HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5668.ts
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Studio_Universal.jpg" group-title="Filmes e Series|KALL",Studio Universal
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5669.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Telecine_Pipoca_HD.jpg" group-title="Filmes e Series|KALL",Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5571.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Telecine_Pipoca.jpg" group-title="Filmes e Series|KALL",Telecine Pipoca
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5661.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max Up HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Max_Up_HD.jpg" group-title="Filmes e Series|KALL",Max Up HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6288.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max Up" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Max_Up.jpg" group-title="Filmes e Series|KALL",Max Up
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6287.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime*e HD" tvg-logo="" group-title="Filmes e Series|KALL",Max Prime*e HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6286.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime*e" tvg-logo="" group-title="Filmes e Series|KALL",Max Prime*e
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6285.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime HD" tvg-logo="" group-title="Filmes e Series|KALL",Max Prime HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6284.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime" tvg-logo="" group-title="Filmes e Series|KALL",Max Prime
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6283.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max HD" tvg-logo="" group-title="Filmes e Series|KALL",Max HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6282.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max" tvg-logo="" group-title="Filmes e Series|KALL",Max
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6281.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Discovery_Kids_HD.jpg" group-title="Infantis|KALL",Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6209.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Discovery_Kids.jpg" group-title="Infantis|KALL",Discovery Kids
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3919.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Boomerang_HD.jpg" group-title="Infantis|KALL",Boomerang HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6293.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Boomerang.jpg" group-title="Infantis|KALL",Boomerang
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3920.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Disney_Channel_HD.jpg" group-title="Infantis|KALL",Disney Channel HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6210.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Infantis|KALL",Disney Channel
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3916.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Disney_XD_HD.jpg" group-title="Infantis|KALL",Disney XD HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6211.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Disney_XD.jpg" group-title="Infantis|KALL",Disney XD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3917.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Disney_Junior_HD.jpg" group-title="Infantis|KALL",Disney Junior HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3918.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Disney_Junior.jpg" group-title="Infantis|KALL",Disney Junior
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6213.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Cartoon_Network_HD.jpg" group-title="Infantis|KALL",Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3913.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Cartoon_Network.jpg" group-title="Infantis|KALL",Cartoon Network
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6214.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Nickelodeon.jpg" group-title="Infantis|KALL",Nickelodeon
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3915.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Nick_Jr_HD.jpg" group-title="Infantis|KALL",Nick Jr HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6216.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantis|KALL",Nick Jr
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3914.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="Infantis|KALL",Tooncast
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3912.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gloob HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Gloob_HD.jpg" group-title="Infantis|KALL",Gloob HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6643.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gloob" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Gloob.jpg" group-title="Infantis|KALL",Gloob
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6279.ts
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Baby_TV.jpg" group-title="Infantis|KALL",Baby TV
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/11365.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zoomoo" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Zoomoo.jpg" group-title="Infantis|KALL",Zoomoo
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/12150.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.ESPN.jpg" group-title="Esportes|KALL",ESPN+
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/12172.ts
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Woohoo.jpg" group-title="Esportes|KALL",Woohoo
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/12151.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eptv Campina" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Globo.jpg" group-title="Canais Abertos|KALL",Eptv Campina
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/12175.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.NatGeo_Wild_HD.jpg" group-title="Documentarios|KALL",NatGeo Wild HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6240.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.NatGeo_Wild.jpg" group-title="Documentarios|KALL",NatGeo Wild
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6239.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Discovery_H&H_HD.jpg" group-title="Documentarios|KALL",Discovery H&H HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6137.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Discovery_H&H.jpg" group-title="Documentarios|KALL",Discovery H&H
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/12153.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Discovery_Science.jpg" group-title="Documentarios|KALL",Discovery Science HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6133.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Discovery_Science.jpg" group-title="Documentarios|KALL",Discovery Science
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6134.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Discovery_Theater.jpg" group-title="Documentarios|KALL",Discovery Theater HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6131.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Discovery_Theater.jpg" group-title="Documentarios|KALL",Discovery Theater
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6132.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Discovery_Turbo_HD.jpg" group-title="Documentarios|KALL",Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6129.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Discovery_Turbo.jpg" group-title="Documentarios|KALL",Discovery Turbo
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6130.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Discovery_World_HD.jpg" group-title="Documentarios|KALL",Discovery World HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6127.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Discovery_World.jpg" group-title="Documentarios|KALL",Discovery World
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6128.ts
+#EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.History_Channel_HD.jpg" group-title="Documentarios|KALL",History Channel HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6255.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Disney_Channel.jpg" group-title="Documentarios|KALL",Discovery Channel
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/12152.ts
+#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.History_Channel.jpg" group-title="Documentarios|KALL",History Channel
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6256.ts
+#EXTINF:-1 tvg-id="" tvg-name="Investigacao Discovery HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Investigacao_Discovery_HD.jpg" group-title="Documentarios|KALL",Investigacao Discovery HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6253.ts
+#EXTINF:-1 tvg-id="" tvg-name="Investigacao Discovery" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Investigacao_Discovery.jpg" group-title="Documentarios|KALL",Investigacao Discovery
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6254.ts
+#EXTINF:-1 tvg-id="" tvg-name="OFF" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.OFF.jpg" group-title="Documentarios|KALL",OFF
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/12171.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.National_Geographic.jpg" group-title="Documentarios|KALL",National Geographic HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6251.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.National_Geographic.jpg" group-title="Documentarios|KALL",National Geographic
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6252.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Animal_Planet_HD.jpg" group-title="Documentarios|KALL",Animal Planet HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6249.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Animal_Planet.jpg" group-title="Documentarios|KALL",Animal Planet
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6250.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civillization HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Discovery_Civilization_HD.jpg" group-title="Documentarios|KALL",Discovery Civillization HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6246.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civillization" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Discovery_Civilization.jpg" group-title="Documentarios|KALL",Discovery Civillization
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6247.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Comedy_Central.jpg" group-title="Variedades e Musicas|KALL",Comedy Central
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6206.ts
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Food_Network_HD.jpg" group-title="Variedades e Musicas|KALL",Food Network HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6242.ts
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Food_Network_HD.jpg" group-title="Variedades e Musicas|KALL",Food Network
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6241.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.A&E_HD.jpg" group-title="Variedades e Musicas|KALL",A&E HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5562.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.A&E.jpg" group-title="Variedades e Musicas|KALL",A&E
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5561.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHK HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.BBB.jpg" group-title="Variedades e Musicas|KALL",NHK HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/11298.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="" group-title="Variedades e Musicas|KALL",BIS
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/11366.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.AMC_HD.jpg" group-title="Variedades e Musicas|KALL",AMC HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5563.ts
+#EXTINF:-1 tvg-id="" tvg-name="Play TV" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Play_TV.jpg" group-title="Variedades e Musicas|KALL",Play TV
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6204.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.MTV_HD.jpg" group-title="Variedades e Musicas|KALL",MTV HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6789.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.MTV.jpg" group-title="Variedades e Musicas|KALL",MTV
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6788.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.TLC.jpg" group-title="Variedades e Musicas|KALL",TLC
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6633.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Viva.jpg" group-title="Religiosos|KALL",VIVA
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6187.ts
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.GNT.jpg" group-title="Religiosos|KALL",GNT HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6363.ts
+#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.GNT.jpg" group-title="Religiosos|KALL",GNT
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6362.ts
+#EXTINF:-1 tvg-id="" tvg-name="Novo Tempo" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Novo_Tempo.jpg" group-title="Religiosos|KALL",Novo Tempo
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6185.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida HD" tvg-logo="" group-title="Religiosos|KALL",Rede Vida HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6520.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Rede_Vida.jpg" group-title="Religiosos|KALL",Rede Vida
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6519.ts
+#EXTINF:-1 tvg-id="" tvg-name="RIT" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.RIT.jpg" group-title="Religiosos|KALL",RIT
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/12178.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E FHD" tvg-logo="" group-title="CANAIS VIP 4K|KALL",A&E FHD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/16030.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET FHD" tvg-logo="" group-title="CANAIS VIP 4K|KALL",ANIMAL PLANET FHD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/16031.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES FHD" tvg-logo="" group-title="CANAIS VIP 4K|KALL",PREMIERE CLUBES FHD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/16033.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV FHD" tvg-logo="" group-title="CANAIS VIP 4K|KALL",SporTV FHD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/16032.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arte1" tvg-logo="" group-title="Canais Abertos|KALL",Arte1
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/16045.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arte1 HD" tvg-logo="" group-title="Canais Abertos|KALL",Arte1 HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/16044.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL FHD" tvg-logo="" group-title="Esportes|KALL",ESPN BRASIL FHD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/16046.ts
+#EXTINF:-1 tvg-id="" tvg-name="18+ 1 HD" tvg-logo="" group-title="Adult Tv",18+ 1 HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6606.ts
+#EXTINF:-1 tvg-id="" tvg-name="Venus" tvg-logo="" group-title="Adult Tv",Venus
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6611.ts
+#EXTINF:-1 tvg-id="" tvg-name="PINK O" tvg-logo="" group-title="Adult Tv",PINK O
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6613.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sextreme" tvg-logo="" group-title="Adult Tv",Sextreme
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6609.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sexy Hot" tvg-logo="" group-title="Adult Tv",Sexy Hot
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6610.ts
+#EXTINF:-1 tvg-id="" tvg-name="Playboy TV" tvg-logo="" group-title="Adult Tv",Playboy TV
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6608.ts
+#EXTINF:-1 tvg-id="" tvg-name="18+ 7 HD" tvg-logo="http://i.imgur.com/jv8XhSR.png" group-title="Adult Tv",18+ 7 HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3800.ts
+#EXTINF:-1 tvg-id="" tvg-name="18+ 8 HD" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="Adult Tv",18+ 8 HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3796.ts
+#EXTINF:-1 tvg-id="" tvg-name="18+ 9 HD" tvg-logo="https://s2.postimg.org/4bc7ct47t/REDLIGHT_HD_LOGO.png" group-title="Adult Tv",18+ 9 HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/3792.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.SporTV.jpg" group-title="Esportes|KALL",SporTV
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5594.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.SporTV_HD.jpg" group-title="Esportes|KALL",SporTV HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5589.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.SporTV2.jpg" group-title="Esportes|KALL",SporTV 2
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6289.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.SporTV2_HD.jpg" group-title="Esportes|KALL",SporTV 2 HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5592.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.SporTV3.jpg" group-title="Esportes|KALL",SporTV 3
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5591.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.SporTV3_HD.jpg" group-title="Esportes|KALL",SporTV 3 HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5590.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="" group-title="Esportes|KALL",Fox Sports
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5584.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Fox_Sports.jpg" group-title="Esportes|KALL",Fox Sports HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5583.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Fox_Sports.jpg" group-title="Esportes|KALL",Fox Sports 2
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5582.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Fox_Sports.jpg" group-title="Esportes|KALL",Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5581.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="Esportes|KALL",ESPN
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5586.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.ESPN.jpg" group-title="Esportes|KALL",ESPN HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5585.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.ESPN.jpg" group-title="Esportes|KALL",ESPN Brasil
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5588.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.ESPN_Brasil.jpg" group-title="Esportes|KALL",ESPN Brasil HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5587.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Band_Sports.jpg" group-title="Esportes|KALL",Band Sports
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5576.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Band_Sports.jpg" group-title="Esportes|KALL",Band Sports HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/5575.ts
+#EXTINF:-1 tvg-id="" tvg-name="Combate" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Combate.jpg" group-title="Esportes|KALL",Combate
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6217.ts
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Combate.jpg" group-title="Esportes|KALL",Combate HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6218.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Premiere_2.jpg" group-title="Esportes|KALL",Premiere 2
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6234.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Premiere_2.jpg" group-title="Esportes|KALL",Premiere 2 HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6233.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Premiere_3.jpg" group-title="Esportes|KALL",Premiere 3
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6232.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Premiere_3.jpg" group-title="Esportes|KALL",Premiere 3 HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6231.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Premiere_4.jpg" group-title="Esportes|KALL",Premiere 4
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6230.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Premiere_4.jpg" group-title="Esportes|KALL",Premiere 4 HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6229.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Premiere_Common.jpg" group-title="Esportes|KALL",Premiere 5
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6228.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Premiere_Common.jpg" group-title="Esportes|KALL",Premiere 5 HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6227.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Premiere_Common.jpg" group-title="Esportes|KALL",Premiere 6
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6226.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Premiere_Common.jpg" group-title="Esportes|KALL",Premiere 6 HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6225.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Premiere_Common.jpg" group-title="Esportes|KALL",Premiere 7
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6224.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Premiere_Common.jpg" group-title="Esportes|KALL",Premiere 8
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6223.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Premiere_Clubes.jpg" group-title="Esportes|KALL",Premiere Clubes
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6237.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes  HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Premiere_Clubes.jpg" group-title="Esportes|KALL",Premiere Clubes  HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6236.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV" tvg-logo="plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/images/KALL.Fish_TV.jpg" group-title="Esportes|KALL",Fish TV
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/6220.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BRASIL" tvg-logo="" group-title="Esportes|KALL",DAZN BRASIL
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/15417.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BRASIL HD" tvg-logo="" group-title="Esportes|KALL",DAZN BRASIL HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://www.hdboxtv.net:8000/PLAY/38faca72a091/38faca72a091/15416.ts

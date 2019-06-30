@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://encurtador.com.KALL/CHQU4" group-title="", CANAL RICOS
+http://video01.kshost.com.KALL/canalricos548/canalricos548/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|KALL| TV GLOBO" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Tv_globo_internacional_2011.png/revision/latest?cb=20140406193435" group-title="|KALL| BRASIL |PLAY|",|KALL| TV GLOBO
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/1003
+#EXTINF:-1 tvg-ID="" tvg-name="|KALL| GLOBO NEWS" tvg-logo="" group-title="|KALL| BRASIL |PLAY|",|KALL| GLOBO NEWS
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/9563
+#EXTINF:-1 tvg-ID="" tvg-name="|KALL| REDE TV FHD" tvg-logo="" group-title="|KALL| BRASIL |PLAY|",|KALL| REDE TV FHD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/10149
+#EXTINF:-1 tvg-ID="" tvg-name="|KALL| BAND NEWS" tvg-logo="" group-title="|KALL| BRASIL |PLAY|",|KALL| BAND NEWS
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/10151
+#EXTINF:-1 tvg-ID="" tvg-name="|KALL| BIS" tvg-logo="" group-title="|KALL| BRASIL |PLAY|",|KALL| BIS
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/10132
+#EXTINF:-1 tvg-ID="" tvg-name="|KALL| COMBATE" tvg-logo="" group-title="|KALL| BRASIL |PLAY|",|KALL| COMBATE
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/10135
+#EXTINF:-1 tvg-ID="" tvg-name="|KALL| DISCOVERY KIDS" tvg-logo="" group-title="|KALL| BRASIL |PLAY|",|KALL| DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/10144
+#EXTINF:-1 tvg-ID="" tvg-name="|KALL| DISNEY CHANNEL" tvg-logo="" group-title="|KALL| BRASIL |PLAY|",|KALL| DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/10145
+#EXTINF:-1 tvg-ID="" tvg-name="|KALL| FOX SPORT" tvg-logo="" group-title="|KALL| BRASIL |PLAY|",|KALL| FOX SPORT
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/10137
+#EXTINF:-1 tvg-ID="" tvg-name="|KALL| FOX SPORT2" tvg-logo="" group-title="|KALL| BRASIL |PLAY|",|KALL| FOX SPORT2
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/10138
+#EXTINF:-1 tvg-ID="" tvg-name="|KALL| LIFETIME" tvg-logo="" group-title="|KALL| BRASIL |PLAY|",|KALL| LIFETIME
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/10152
+#EXTINF:-1 tvg-ID="" tvg-name="|KALL| MEGAPIX" tvg-logo="" group-title="|KALL| BRASIL |PLAY|",|KALL| MEGAPIX
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/10136
+#EXTINF:-1 tvg-ID="" tvg-name="|KALL| MULTISHOW" tvg-logo="" group-title="|KALL| BRASIL |PLAY|",|KALL| MULTISHOW
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/10131
+#EXTINF:-1 tvg-ID="" tvg-name="|KALL| OFF" tvg-logo="" group-title="|KALL| BRASIL |PLAY|",|KALL| OFF
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/10133
+#EXTINF:-1 tvg-ID="" tvg-name="|KALL| SBT" tvg-logo="" group-title="|KALL| BRASIL |PLAY|",|KALL| SBT
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/8054
+#EXTINF:-1 tvg-ID="" tvg-name="|KALL| SPACE" tvg-logo="" group-title="|KALL| BRASIL |PLAY|",|KALL| SPACE
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/10156
+#EXTINF:-1 tvg-ID="" tvg-name="|KALL| SPORTV1" tvg-logo="" group-title="|KALL| BRASIL |PLAY|",|KALL| SPORTV1
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/10153
+#EXTINF:-1 tvg-ID="" tvg-name="|KALL| SPORTV2" tvg-logo="" group-title="|KALL| BRASIL |PLAY|",|KALL| SPORTV2
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/10154
+#EXTINF:-1 tvg-ID="" tvg-name="|KALL| SPORTV3" tvg-logo="" group-title="|KALL| BRASIL |PLAY|",|KALL| SPORTV3
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/10155
+#EXTINF:-1 tvg-ID="" tvg-name="|KALL| TNT" tvg-logo="" group-title="|KALL| BRASIL |PLAY|",|KALL| TNT
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/10134
+#EXTINF:-1 tvg-ID="" tvg-name="|KALL| TOONCAST" tvg-logo="" group-title="|KALL| BRASIL |PLAY|",|KALL| TOONCAST
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/10146
+#EXTINF:-1 tvg-ID="" tvg-name="|KALL| TRU TV" tvg-logo="" group-title="|KALL| BRASIL |PLAY|",|KALL| TRU TV
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/10150
+#EXTINF:-1 tvg-ID="" tvg-name="|KALL| TV BRASIL" tvg-logo="" group-title="|KALL| BRASIL |PLAY|",|KALL| TV BRASIL
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/10148
