@@ -222,14 +222,15 @@
 
 
 
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 <channels>
 <channel>
-<name>[COLOR yellow]l[/COLOR] [COLOR blue][B]KALL[/B][/COLOR][COLOR White][B]PLAY[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] FILMES-2019 [/B][/COLOR]</name>
+<name>[COLOR yellow]l[/COLOR] [COLOR blue][B]KALL[/B][/COLOR][COLOR White][B]PLAY[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] FILMES-2019-2 [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/IaiIorf.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/filmes1</externallink>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/filmes2</externallink>
 <fanart>https://imgur.com/yutAOli.jpg</fanart>
 <info>
 
