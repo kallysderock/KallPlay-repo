@@ -15,21 +15,21 @@ plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/38013
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BRA | AMC FHD" tvg-logo="https://i.imgur.com/YhH7rkC.png" group-title="PORTUGAL | BRASIL",BRA | AMC 
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AMC FHD" tvg-logo="https://i.imgur.com/YhH7rkC.png" group-title="PORTUGAL | BRASIL",BRA | AMC FHD 
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/31225
-#EXTINF:-1,AMC H265
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AMC FHD" tvg-logo="https://i.imgur.com/YhH7rkC.png" group-title="PORTUGAL | BRASIL",BRA |AMC H265
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/40076
-#EXTINF:-1,AMC FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AMC FHD" tvg-logo="https://i.imgur.com/YhH7rkC.png" group-title="PORTUGAL | BRASIL",BRA |AMC FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/13902
 #EXTINF:-1,AMC HD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/13757
-#EXTINF:-1,AMC
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AMC FHD" tvg-logo="https://i.imgur.com/YhH7rkC.png" group-title="PORTUGAL | BRASIL",BRA |AMC
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/9226
-#EXTINF:-1,AMC Alternativo HD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AMC FHD" tvg-logo="https://i.imgur.com/YhH7rkC.png" group-title="PORTUGAL | BRASIL",BRA |AMC Alternativo HD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/21354
-#EXTINF:-1,AMC Alternativo
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AMC FHD" tvg-logo="https://i.imgur.com/YhH7rkC.png" group-title="PORTUGAL | BRASIL",BRA |AMC Alternativo
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/16189
-#EXTINF:-1,AMC Alternativo FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AMC FHD" tvg-logo="https://i.imgur.com/YhH7rkC.png" group-title="PORTUGAL | BRASIL",BRA |AMC Alternativo FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/38012
 
 
