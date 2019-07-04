@@ -318,17 +318,17 @@ plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/19995
 
 
-#EXTINF:-1,SporTV 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | SporTV 3 FHD" tvg-logo="https://imgur.com/fzDLgtX.jpg" group-title="PORTUGAL | BRASIL",BRA |SporTV 3 FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/17042
-#EXTINF:-1,SporTV 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | SporTV 3 HD" tvg-logo="https://imgur.com/fzDLgtX.jpg" group-title="PORTUGAL | BRASIL",BRA |SporTV 3 HD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/1620
-#EXTINF:-1,SporTV 3
+#EXTINF:-1 tvg-id="" tvg-name="BRA | SporTV 3" tvg-logo="https://imgur.com/fzDLgtX.jpg" group-title="PORTUGAL | BRASIL",BRA |SporTV 3
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/366
-#EXTINF:-1,SporTV 3 HD Alternativo
+#EXTINF:-1 tvg-id="" tvg-name="BRA | SporTV 3 HD Alternativo" tvg-logo="https://imgur.com/fzDLgtX.jpg" group-title="PORTUGAL | BRASIL",BRA |SporTV 3 HD Alternativo
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/19959
-#EXTINF:-1,SporTV 3 Alternativo
+#EXTINF:-1 tvg-id="" tvg-name="BRA | SporTV 3 Alternativo" tvg-logo="https://imgur.com/fzDLgtX.jpg" group-title="PORTUGAL | BRASIL",BRA |SporTV 3 Alternativo
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/19960
-#EXTINF:-1,SporTV 3 Alternativo FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | SporTV 3 Alternativo FHD" tvg-logo="https://imgur.com/fzDLgtX.jpg" group-title="PORTUGAL | BRASIL",BRA |SporTV 3 Alternativo FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/37985
-#EXTINF:-1,SporTV 3 -FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | SporTV 3 FHD" tvg-logo="https://imgur.com/fzDLgtX.jpg" group-title="PORTUGAL | BRASIL",BRA |SporTV 3 FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/29615
