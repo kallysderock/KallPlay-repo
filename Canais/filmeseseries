@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,A&E -FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AMC FHD" tvg-logo="https://lh3.googleusercontent.com/-Z0eE10KhbCE/W6aEoqjBWCI/AAAAAAAAAOU/GDGdzWuMbDk24UR6vuMfRH4_6LaO2ODGgCEwYBhgL/h120/a%2526e.png" group-title="PORTUGAL | BRASIL",BRA |A&E FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/31203
 #EXTINF:-1,A&E FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/13903
@@ -21,7 +21,7 @@ plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/40076
 #EXTINF:-1 tvg-id="" tvg-name="BRA | AMC FHD" tvg-logo="https://i.imgur.com/YhH7rkC.png" group-title="PORTUGAL | BRASIL",BRA |AMC FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/13902
-#EXTINF:-1,AMC HD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AMC FHD" tvg-logo="https://i.imgur.com/YhH7rkC.png" group-title="PORTUGAL | BRASIL",BRA |AMC HD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/13757
 #EXTINF:-1 tvg-id="" tvg-name="BRA | AMC FHD" tvg-logo="https://i.imgur.com/YhH7rkC.png" group-title="PORTUGAL | BRASIL",BRA |AMC
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/9226
