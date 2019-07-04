@@ -114,86 +114,86 @@ plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/13850
 
 
-#EXTINF:-1,ESPN 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | ESPN 2 FHD" tvg-logo="https://imgur.com/h5w1fq2.jpg" group-title="PORTUGAL | BRASIL",BRA |ESPN 2 FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/17511
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | ESPN 2 HD" tvg-logo="https://imgur.com/h5w1fq2.jpg" group-title="PORTUGAL | BRASIL",BRA |ESPN 2 HD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/1603
-#EXTINF:-1,ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="BRA | ESPN 2" tvg-logo="https://imgur.com/h5w1fq2.jpg" group-title="PORTUGAL | BRASIL",BRA |ESPN 2
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/408
-#EXTINF:-1,ESPN 2 Alternativo
+#EXTINF:-1 tvg-id="" tvg-name="BRA | ESPN 2 Alternativo" tvg-logo="https://imgur.com/h5w1fq2.jpg" group-title="PORTUGAL | BRASIL",BRA |ESPN 2 Alternativo
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/31617
-#EXTINF:-1,ESPN 2 H265
+#EXTINF:-1 tvg-id="" tvg-name="BRA | ESPN 2 H265" tvg-logo="https://imgur.com/h5w1fq2.jpg" group-title="PORTUGAL | BRASIL",BRA |ESPN 2 H265
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/13849
 
 
-#EXTINF:-1,ESPN Extra FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | ESPN Extra FHD" tvg-logo="https://imgur.com/FQcN5oN.jpg" group-title="PORTUGAL | BRASIL",BRA |ESPN Extra FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/21630
-#EXTINF:-1,ESPN Extra HD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | ESPN Extra HD" tvg-logo="https://imgur.com/FQcN5oN.jpg" group-title="PORTUGAL | BRASIL",BRA |ESPN Extra HD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/21631
-#EXTINF:-1,ESPN Extra
+#EXTINF:-1 tvg-id="" tvg-name="BRA | ESPN Extra" tvg-logo="https://imgur.com/FQcN5oN.jpg" group-title="PORTUGAL | BRASIL",BRA |ESPN Extra
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/21632
-#EXTINF:-1,ESPN Extra Alternativo FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | ESPN Extra Alternativo FHD" tvg-logo="https://imgur.com/FQcN5oN.jpg" group-title="PORTUGAL | BRASIL",BRA |ESPN Extra Alternativo FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/43256
-#EXTINF:-1,ESPN Extra -FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | ESPN Extra -FHD" tvg-logo="https://imgur.com/FQcN5oN.jpg" group-title="PORTUGAL | BRASIL",BRA |ESPN Extra -FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/31261
 
 
-#EXTINF:-1,FOX Sports FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | FOX Sports FHD" tvg-logo="https://imgur.com/5GLXNDk.jpg" group-title="PORTUGAL | BRASIL",BRA |FOX Sports FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/13522
-#EXTINF:-1,FOX Sports ‐FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | FOX Sports FHD" tvg-logo="https://imgur.com/5GLXNDk.jpg" group-title="PORTUGAL | BRASIL",BRA |FOX Sports FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/29336
-#EXTINF:-1,FOX Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | FOX Sports HD" tvg-logo="https://imgur.com/5GLXNDk.jpg" group-title="PORTUGAL | BRASIL",BRA |FOX Sports HD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/1589
-#EXTINF:-1,Fox Sports
+#EXTINF:-1 tvg-id="" tvg-name="BRA | Fox Sports" tvg-logo="https://imgur.com/5GLXNDk.jpg" group-title="PORTUGAL | BRASIL",BRA |Fox Sports
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/368
-#EXTINF:-1,FOX Sports HD Alternativo
+#EXTINF:-1 tvg-id="" tvg-name="BRA | FOX Sports HD Alternativo" tvg-logo="https://imgur.com/5GLXNDk.jpg" group-title="PORTUGAL | BRASIL",BRA |FOX Sports HD Alternativo
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/18835
-#EXTINF:-1,Fox Sports Alternativo
+#EXTINF:-1 tvg-id="" tvg-name="BRA | Fox Sports Alternativo" tvg-logo="https://imgur.com/5GLXNDk.jpg" group-title="PORTUGAL | BRASIL",BRA |Fox Sports Alternativo
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/17191
-#EXTINF:-1,FOX Sports Alternativo FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | FOX Sports Alternativo FHD" tvg-logo="https://imgur.com/5GLXNDk.jpg" group-title="PORTUGAL | BRASIL",BRA |FOX Sports Alternativo FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/38001
 
 
-#EXTINF:-1,FOX Sports 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | FOX Sports 2 FHD" tvg-logo="https://imgur.com/3pQJyHt.jpg" group-title="PORTUGAL | BRASIL",BRA |FOX Sports 2 FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/21629
-#EXTINF:-1,Fox Sports 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | Fox Sports 2 HD" tvg-logo="https://imgur.com/3pQJyHt.jpg" group-title="PORTUGAL | BRASIL",BRA |Fox Sports 2 HD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/1499
-#EXTINF:-1,Fox Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="BRA | Fox Sports 2" tvg-logo="https://imgur.com/3pQJyHt.jpg" group-title="PORTUGAL | BRASIL",BRA |Fox Sports 2
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/367
-#EXTINF:-1,Fox Sports 2 HD Alternativo
+#EXTINF:-1 tvg-id="" tvg-name="BRA | Fox Sports 2 HD Alternativo" tvg-logo="https://imgur.com/3pQJyHt.jpg" group-title="PORTUGAL | BRASIL",BRA |Fox Sports 2 HD Alternativo
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/20934
-#EXTINF:-1,Fox Sports 2 Alternativo
+#EXTINF:-1 tvg-id="" tvg-name="BRA | Fox Sports 2 Alternativo" tvg-logo="https://imgur.com/3pQJyHt.jpg" group-title="PORTUGAL | BRASIL",BRA |Fox Sports 2 Alternativo
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/17193
-#EXTINF:-1,FOX Sports 2 Alternativo FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | FOX Sports 2 Alternativo FHD" tvg-logo="https://imgur.com/3pQJyHt.jpg" group-title="PORTUGAL | BRASIL",BRA |FOX Sports 2 Alternativo FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/37951
-#EXTINF:-1,FOX Sports 2 -FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | FOX Sports 2 -FHD" tvg-logo="https://imgur.com/3pQJyHt.jpg" group-title="PORTUGAL | BRASIL",BRA |FOX Sports 2 -FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/17044
 
-#EXTINF:-1,NBA TV
+#EXTINF:-1 tvg-id="" tvg-name="BRA | NBA TV" tvg-logo="https://imgur.com/LQNDYs5.jpg" group-title="PORTUGAL | BRASIL",BRA |NBA TV
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/12236
 
-#EXTINF:-1,Tabela Jogos Premiere
+#EXTINF:-1 tvg-id="" tvg-name="BRA | Tabela Jogos Premiere" tvg-logo="https://imgur.com/rC3nVqC.jpg" group-title="PORTUGAL | BRASIL",BRA |Tabela Jogos Premiere
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/29657
 
-#EXTINF:-1,Premiere Clubes ‐FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | Premiere Clubes FHD" tvg-logo="https://imgur.com/bkTzi3t.jpg" group-title="PORTUGAL | BRASIL",BRA |Premiere Clubes FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/29661
-#EXTINF:-1,Premiere Clubes UHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | Premiere Clubes UHD" tvg-logo="https://imgur.com/bkTzi3t.jpg" group-title="PORTUGAL | BRASIL",BRA |Premiere Clubes UHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/29690
-#EXTINF:-1,Premiere Clubes FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | Premiere Clubes FHD" tvg-logo="https://imgur.com/bkTzi3t.jpg" group-title="PORTUGAL | BRASIL",BRA |Premiere Clubes FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/17293
-#EXTINF:-1,Premiere Clubes HD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | Premiere Clubes HD" tvg-logo="https://imgur.com/bkTzi3t.jpg" group-title="PORTUGAL | BRASIL",BRA |Premiere Clubes HD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/204
-#EXTINF:-1,Premiere Clubes
+#EXTINF:-1 tvg-id="" tvg-name="BRA | Premiere Clubes" tvg-logo="https://imgur.com/bkTzi3t.jpg" group-title="PORTUGAL | BRASIL",BRA |Premiere Clubes
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/1930
-#EXTINF:-1,Premiere Clubes  FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | Premiere Clubes FHD" tvg-logo="https://imgur.com/bkTzi3t.jpg" group-title="PORTUGAL | BRASIL",BRA |Premiere Clubes FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/31625
-#EXTINF:-1,Premiere Clubes Alternativo HD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | Premiere Clubes Alternativo HD" tvg-logo="https://imgur.com/bkTzi3t.jpg" group-title="PORTUGAL | BRASIL",BRA |Premiere Clubes Alternativo HD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/12857
-#EXTINF:-1,Premiere Clubes Alternativo
+#EXTINF:-1 tvg-id="" tvg-name="BRA | Premiere Clubes Alternativo" tvg-logo="https://imgur.com/bkTzi3t.jpg" group-title="PORTUGAL | BRASIL",BRA |Premiere Clubes Alternativo
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/13511
-#EXTINF:-1,Premiere Clubes Alternativo FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | Premiere Clubes Alternativo FHD" tvg-logo="https://imgur.com/bkTzi3t.jpg" group-title="PORTUGAL | BRASIL",BRA |Premiere Clubes Alternativo FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/37989
-#EXTINF:-1,PFC
+#EXTINF:-1 tvg-id="" tvg-name="BRA | PFC" tvg-logo="https://imgur.com/bkTzi3t.jpg" group-title="PORTUGAL | BRASIL",BRA |PFC
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/210
 
 
