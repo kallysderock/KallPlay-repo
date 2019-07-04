@@ -15,7 +15,7 @@ plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/38013
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BRA | AMC" tvg-logo="https://i.imgur.com/YhH7rkC.png" group-title="PORTUGAL | BRASIL",BRA | AMC -FHD 
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AMC" tvg-logo="https://i.imgur.com/YhH7rkC.png" group-title="PORTUGAL | BRASIL",BRA | AMC
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/31225
 #EXTINF:-1,AMC H265
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/40076
