@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1,Discovery H&H FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | Discovery H&H FHD" tvg-logo="https://imgur.com/dSl9xQs.png" group-title="PORTUGAL | BRASIL",BRA |Discovery H&H FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/17183
-#EXTINF:-1,Discovery H&H HD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | Discovery H&H HD" tvg-logo="https://imgur.com/dSl9xQs.png" group-title="PORTUGAL | BRASIL",BRA |Discovery H&H HD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/1610
-#EXTINF:-1,Discovery H&H
+#EXTINF:-1 tvg-id="" tvg-name="BRA |Discovery H&H" tvg-logo="https://imgur.com/dSl9xQs.png" group-title="PORTUGAL | BRASIL",BRA |Discovery H&H
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/359
-#EXTINF:-1,Discovery H&H Alternativo HD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | Discovery H&H Alternativo HD" tvg-logo="https://imgur.com/dSl9xQs.png" group-title="PORTUGAL | BRASIL",BRA |Discovery H&H Alternativo HD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/19963
-#EXTINF:-1,Discovery H&H Alternativo
+#EXTINF:-1 tvg-id="" tvg-name="BRA | Discovery H&H Alternativo" tvg-logo="https://imgur.com/dSl9xQs.png" group-title="PORTUGAL | BRASIL",BRA |Discovery H&H Alternativo
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/19964
-#EXTINF:-1,Discovery H&H Alternativo FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | Discovery H&H Alternativo FHD" tvg-logo="https://imgur.com/dSl9xQs.png" group-title="PORTUGAL | BRASIL",BRA |Discovery H&H Alternativo FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/37967
-#EXTINF:-1,Discovery H&H -FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | Discovery H&H -FHD" tvg-logo="https://imgur.com/dSl9xQs.png" group-title="PORTUGAL | BRASIL",BRA |Discovery H&H -FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/21646
-#EXTINF:-1,Discovery H&H H265
+#EXTINF:-1 tvg-id="" tvg-name="BRA | Discovery H&H H265" tvg-logo="https://imgur.com/dSl9xQs.png" group-title="PORTUGAL | BRASIL",BRA |Discovery H&H H265
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/13856
 
 
