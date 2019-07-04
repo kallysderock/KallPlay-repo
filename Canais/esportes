@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="BRA | AMC" tvg-logo="https://i.imgur.com/4GvNuEh.png" group-title="PORTUGAL | BRASIL",BRA |Band Sports FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/31197
-#EXTINF:-1,Band Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AMC" tvg-logo="https://i.imgur.com/4GvNuEh.png" group-title="PORTUGAL | BRASIL",BRA |Band Sports HD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/1600
-#EXTINF:-1,Band Sports
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AMC" tvg-logo="https://i.imgur.com/4GvNuEh.png" group-title="PORTUGAL | BRASIL",BRA |Band Sports
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/370
-#EXTINF:-1,Band Sports HD Alternativo
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AMC" tvg-logo="https://i.imgur.com/4GvNuEh.png" group-title="PORTUGAL | BRASIL",BRA |Band Sports HD Alternativo
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/21192
-#EXTINF:-1,Band Sports Alternativo
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AMC" tvg-logo="https://i.imgur.com/4GvNuEh.png" group-title="PORTUGAL | BRASIL",BRA |Band Sports Alternativo
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/21193
-#EXTINF:-1,Band Sports -FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AMC" tvg-logo="https://i.imgur.com/4GvNuEh.png" group-title="PORTUGAL | BRASIL",BRA |Band Sports -FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/31616
-#EXTINF:-1,Band Sports H265
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AMC" tvg-logo="https://i.imgur.com/4GvNuEh.png" group-title="PORTUGAL | BRASIL",BRA |Band Sports H265
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/13859
 
 
