@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,Band Sports FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/31197
 #EXTINF:-1,Band Sports HD
