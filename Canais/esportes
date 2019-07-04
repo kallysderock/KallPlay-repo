@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BRA | AMC" tvg-logo="https://i.imgur.com/NRHgaHB.jpg" group-title="PORTUGAL | BRASIL",BRA |Band Sports FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AMC" tvg-logo="https://i.imgur.com/rDBLiJF.png" group-title="PORTUGAL | BRASIL",BRA |Band Sports FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/31197
 #EXTINF:-1,Band Sports HD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/1600
