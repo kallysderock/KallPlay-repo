@@ -309,7 +309,7 @@ plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/13884
 #EXTINF:-1 tvg-id="" tvg-name="BRA |VH1 HD" tvg-logo="https://imgur.com/GaT4VYj.png" group-title="PORTUGAL | BRASIL",BRA |VH1 HD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/13788
-#EXTINF:-1 tvg-id="" tvg-name="BRA |VH1 Alternativo" tvg-logo="https://imgur.com/GaT4VYj" group-title="PORTUGAL | BRASIL",BRA |VH1 Alternativo
+#EXTINF:-1 tvg-id="" tvg-name="BRA |VH1 Alternativo" tvg-logo="https://imgur.com/GaT4VYj.jpg" group-title="PORTUGAL | BRASIL",BRA |VH1 Alternativo
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/21710
 #EXTINF:-1 tvg-id="" tvg-name="BRA |Vh1 Megahits" tvg-logo="https://imgur.com/GaT4VYj.png" group-title="PORTUGAL | BRASIL",BRA |Vh1 Megahits
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/794
