@@ -13,7 +13,7 @@ plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/13527
 #EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/WMkADda.png" group-title="PORTUGAL | BRASIL",BRA |Globo News Alternativo FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/37950
-#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/6YKoBlc.png" group-title="PORTUGAL | BRASIL",BRA |Globo News -FHD
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/WMkADda.png" group-title="PORTUGAL | BRASIL",BRA |Globo News -FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/13802
 
 
