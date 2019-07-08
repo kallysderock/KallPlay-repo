@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repo.TWTUTORIAIS" name="[B][COLOR red].TWTutoriais Repo[/B][/COLOR]" version="1.0" provider-name="repo.TWTUTORIAIS">
+	<extension point="xbmc.addon.repository" name="Repositorio TWTutoriais">
+		<info compressed="false">https://repotwtutoriais.000webhostapp.com/RepoTWTutoriais/addons.xml</info>
+		<checksum>https://repotwtutoriais.000webhostapp.com/RepoTWTutoriais/addons.xml.md5</checksum>
+		<datadir zip="true">https://repotwtutoriais.000webhostapp.com/RepoTWTutoriais/Plugins/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+	  <news>
+Add-on Retirado do Canal TONY WARLLEY TUTORIAIS, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente no CANAL TONY WARLLEY TUTORIAIS.
+        </news>
+		<summary>Repositorio TWTutoriais</summary>
+		<description>Repositorio TWTutoriais - Proibido Reproducao sem Previa Autorizacao...kkk Sério?</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
