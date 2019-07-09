@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repo.KALLPLAY" name="repo.KALLPLAY" version="1.0" provider-name="repo.KALLPLAY">
+  <extension point="xbmc.addon.repository" name="KALLPLAY Repo">
+    <info compressed="false">https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/repo.KALLPLAY/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/repo.KALLPLAY/addons.xml.md5</checksum>
+    <datadir zip="true">https://github.com/kallysderock/KallPlay-repo/tree/master/repo.KALLPLAY</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Repositório oficial KALLPLAY.</summary>
+    <description lang="en">Este é o repositório oficial com todos os addons e atualizações do KALLPLAY. Aqui você também encontra as dependências necessárias para que tudo funcione corretamente.
+
+Fique atento em nosso site oficial para mais informações!
+</description>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+    <website>https://repokallplay.000webhostapp.com/</website>
+  </extension>
+</addon>
