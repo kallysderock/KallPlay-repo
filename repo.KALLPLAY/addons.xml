@@ -401,7 +401,7 @@ Add-on Retirado do Canal KALLPLAY, não baixe Add-ons que não sejam Oficial, Ad
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">TV Online,Filmes,Series,Desenhos.</summary>
+    <summary lang="en">TV Online</summary>
     <description lang="en">TV ONLINE BY:kallplay</description>
     <platform>all</platform>
   </extension>
