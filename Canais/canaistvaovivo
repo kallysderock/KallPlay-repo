@@ -37,14 +37,14 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] SERVIDOR-TESTE-1 [/B][/COLOR]</name>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] OPÇÃO DE CANAIS-02[/B][/COLOR]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/base</externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
 <info>
 
 
-[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
+[COLOR gold]|[/COLOR]- TV ABERTA, DOCUMENTÁRIOS, FILMES, ANIMES, DESENHOS, NOTÍCIAS E MUITO MAIS! -[COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -147,9 +147,9 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] SERVIDOR-05 [/B][/COLOR]</name>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] OPÇÃO-01 DE FILMES-2018/2019 [/B][/COLOR]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/filmes</externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
 <info>
 
@@ -164,9 +164,9 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] SERVIDOR-06 [/B][/COLOR]</name>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] OPÇÃO-02 DE FILMES-2019 [/B][/COLOR]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/filmes1</externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
 <info>
 
@@ -181,9 +181,9 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] Portugal-07 [/B][/COLOR]</name>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] OPÇÃO-03 DE FILMES-2019 [/B][/COLOR]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/filmes2</externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
 <info>
 
@@ -198,9 +198,9 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] SERVIDOR-08 [/B][/COLOR]</name>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] ANIMES E DESENHOS [/B][/COLOR]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/animesedesenhos</externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
 <info>
 
@@ -215,9 +215,9 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] SERVIDOR-09 [/B][/COLOR]</name>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] SÉRIES [/B][/COLOR]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/series</externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
 <info>
 
@@ -232,9 +232,9 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] SERVIDOR-10 [/B][/COLOR]</name>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] ADULTO [/B][/COLOR]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/adulto</externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
 <info>
 
@@ -243,3 +243,67 @@
 </channel>
 </channels>
 
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] SHOW MUSIC/CLIP-01 [/B][/COLOR]</name>
+<thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/showmusic</externallink>
+<fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
+<info>
+
+
+[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] SHOW MUSIC/CLIP-02 [/B][/COLOR]</name>
+<thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/show1</externallink>
+<fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
+<info>
+
+
+[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] RÁDIO [/B][/COLOR]</name>
+<thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/radio</externallink>
+<fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
+<info>
+
+
+[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] HUMOR [/B][/COLOR]</name>
+<thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/humor</externallink>
+<fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
+<info>
+
+
+[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
