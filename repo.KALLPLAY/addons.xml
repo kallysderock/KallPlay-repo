@@ -384,8 +384,8 @@ Add-on Retirado do Canal KALLPLAY, não baixe Add-ons que não sejam Oficial, Ad
   </extension>
 </addon>
 
-<addon id="plugin.video.kallplay" name="kallplay" version="1.0.1" provider-name="KALLPLAY">
-  <requires>
+<addon id="plugin.video.kallplay" name="[COLOR white][B]Kall[/B][/COLOR][COLOR gold][B]Play[/B][/COLOR]" version="1.4.0" provider-name="Kallysderock">
+ <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
     <import addon="script.module.simple.downloader" version="0.9.4"/>
@@ -400,13 +400,16 @@ Add-on Retirado do Canal KALLPLAY, não baixe Add-ons que não sejam Oficial, Ad
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
   </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">TV Online,Filmes,Series,Desenhos.</summary>
-    <description lang="en">TV ONLINE BY:kallplay</description>
+ <extension point="xbmc.addon.metadata">
+    <summary lang="en">TV AO VIVO [COLOR gold]|[/COLOR] IPTV [COLOR gold]|[/COLOR]</summary>
+    <description lang="en">O autor não é responsável pelo uso deste addon. [B][COLOR white]Kall[/COLOR][/B][COLOR gold]Play[/COLOR]
+	
+O autor não é de forma alguma afiliado ao Kodi, a Team Kodi ou a XBMC Foundation. Este é um recurso sem fins lucrativos, organizado exclusivamente para fins educacionais e protegido pela doutrina de uso justo da Lei de Direitos Autorais, especificamente a seção 107, que promove a liberdade de expressão, permitindo o uso não licenciado de obras protegidas por direitos autorais.
+
+[B][COLOR white]Kall[/COLOR][/B][COLOR gold]Play[/COLOR] O MELHOR ENTRETENIMENTO PARA A SUA CASA [COLOR gold][B]|[/COLOR][/B]</description>
     <platform>all</platform>
   </extension>
 </addon>
-
 
 <addon id="plugin.video.uranus" version="2018.02.22" name="Uranus" provider-name="Uranus">
     <requires>
