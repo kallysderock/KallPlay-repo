@@ -13,7 +13,15 @@
 </channel>
 </channels>
 
-
+<channel id="DXTV.ar">
+    <display-name lang="es">DeporTV</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="Ae.br">
+    <display-name lang="pt">A&amp;E</display-name>
+    <url>http://www.brstugatutoriais.tk</url>
+  </channel>
+ 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
