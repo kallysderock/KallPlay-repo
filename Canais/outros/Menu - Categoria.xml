@@ -14,6 +14,15 @@
 <info>[B][COLOR white]MELHORES LANÇAMENTOS DE [COLOR gold]2019[/COLOR][/COLOR][/B]</info>
 <fanart>https://image.tmdb.org/t/p/original/orjiB3oUIsyz60hoEqkiGpy5CeO.jpg</fanart>
 </channel>
+
+<channel>
+<name>[B][COLOR white]CATEGORIA: [COLOR gold]GUIA[/COLOR][/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/Nr2mqYI.png</thumbnail>
+<externallink>http://www.lineup.tv.br/gdc.php?Guia=477932#</externallink>
+<info>[B][COLOR white]TODOS OS FILMES [COLOR gold]NACIONAIS[/COLOR][/COLOR][/B]</info>
+<fanart>https://image.tmdb.org/t/p/original/zjXP5noDJbfJYK1C0lLX1ILBFQX.jpg</fanart>
+</channel>
+
 <channel>
 <name>[B][COLOR white]CATEGORIA: [COLOR gold]NACIONAIS[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/Nr2mqYI.png</thumbnail>
