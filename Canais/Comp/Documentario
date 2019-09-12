@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Animal Planet FHD
 plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/18631.m3u8
-#EXTINF:-1,Animal Planet HD
-plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1861.m3u8
+#EXTINF:-1 , ANIMAL PLANET HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13620
 #EXTINF:-1,Animal Planet
 plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/94.m3u8
 #EXTINF:-1,Animal Planet Alternativo HD
