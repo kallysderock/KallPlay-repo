@@ -2,7 +2,7 @@
 #EXTINF:-1,Animal Planet FHD
 plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/18631.m3u8
 #EXTINF:-1,ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/bNaF33ue/AzApromo/1466.m3u8
+http://iptvisiontop.com:25461/Serv643/yZTEiZmaAD/25601
 #EXTINF:-1,Animal Planet
 plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/94.m3u8
 #EXTINF:-1,Animal Planet Alternativo HD
