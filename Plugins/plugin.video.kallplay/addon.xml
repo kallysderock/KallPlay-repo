@@ -9,6 +9,7 @@
     <import addon="script.module.youtube.dl" optional="true"/>
     <import addon="script.module.urlresolver" optional="true"/>
     <import addon="script.module.simplejson"/> 
+    <import addon="script.module.metahandler" version="5.0" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
