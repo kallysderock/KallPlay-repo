@@ -10,7 +10,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR+aquamarine][B]KALL[/COLOR][COLOR+wh
 #EXTINF:-1 tvg-id="Bandeirantes4.hdbr" tvg-name="A&E FHD " tvg-logo="https://abrilveja.files.wordpress.com/2016/11/logoband.png" group-title="Abertos",A&E FHD
 plugin://plugin.video.f4mTester/?name=[COLOR+aquamarine][B]KALL[/COLOR][COLOR+white]PLAY[/B][/COLOR]&amp;streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/Bxj6DrTwK2/fireurl.co/2025
 #EXTINF:-1 tvg-id="" tvg-name="Band News HD" tvg-logo="" group-title="Noticiais",Band News HD
-plugin://plugin.video.OnePlay/?fanart=https://i.imgur.com/fnxQON3.jpg&mode=1&name=[B][COLOR white]SERVIDOR: 2[/B][/COLOR] [COLOR aquamarine][B][F4MTESTE][/B][/COLOR]&url=aHR0cHM6Ly93d3cucHlwcm90ZWN0LnRrL0FjZXNzb1Byb2liaWRvL09uZVBsYXkvVFYvU2Vydmlkb3ItMi9NZW51Lmh0bWw=
+plugin://plugin.video.kallplay/?fanart=https://i.imgur.com/fnxQON3.jpg&mode=1&name=[B][COLOR white]SERVIDOR: 2[/B][/COLOR] [COLOR aquamarine][B][F4MTESTE][/B][/COLOR]&url=aHR0cHM6Ly93d3cucHlwcm90ZWN0LnRrL0FjZXNzb1Byb2liaWRvL09uZVBsYXkvVFYvU2Vydmlkb3ItMi9NZW51Lmh0bWw=
 #EXTINF:-1 tvg-id="Bandsports4.hdbr" tvg-name="Band Sports FHD" tvg-logo="" group-title="Esportes",Band Sports FHD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/indio/indio/11181
 #EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS HD" tvg-logo="" group-title="Esportes",BAND SPORTS HD
