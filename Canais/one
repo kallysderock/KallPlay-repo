@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://encurtador.com.KALL/CHQU4" group-title="", DAZN 1 - Copa Sulamericana HD 
-plugin://plugin.video.OnePlay/?url=plugin://plugin.video.f4mTester/?name=[COLOR+aquamarine][B]ONE[/COLOR][COLOR+white]PLAY[/B][/COLOR]&amp;streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/Bxj6DrTwK2/fireurl.co/1642
+plugin://plugin.video.f4mTester/?name=[COLOR+aquamarine][B]ONE[/COLOR][COLOR+white]PLAY[/B][/COLOR]&amp;streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/Bxj6DrTwK2/fireurl.co/1642
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2 - Copa Libertadores HD" tvg-logo="" group-title="Noticiais",DAZN 2 - Copa Libertadores HD
-plugin://plugin.video.OnePlay/?url=plugin://plugin.video.f4mTester/?name=[COLOR+aquamarine][B]ONE[/COLOR][COLOR+white]PLAY[/B][/COLOR]&amp;streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/Bxj6DrTwK2/fireurl.co/1641
+plugin://plugin.video.f4mTester/?name=[COLOR+aquamarine][B]ONE[/COLOR][COLOR+white]PLAY[/B][/COLOR]&amp;streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/Bxj6DrTwK2/fireurl.co/1641
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 3 - Brasileirao Serie C HD" tvg-logo="" group-title="Filmes e Series",DAZN 3 - Brasileirao Serie C HD
-plugin://plugin.video.OnePlay/?url=plugin://plugin.video.f4mTester/?name=[COLOR+aquamarine][B]ONE[/COLOR][COLOR+white]PLAY[/B][/COLOR]&amp;streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/Bxj6DrTwK2/fireurl.co/1640
+plugin://plugin.video.f4mTester/?name=[COLOR+aquamarine][B]ONE[/COLOR][COLOR+white]PLAY[/B][/COLOR]&amp;streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/Bxj6DrTwK2/fireurl.co/1640
 #EXTINF:-1 tvg-id="Bandeirantes4.hdbr" tvg-name=" A Fazenda HD" tvg-logo="https://auvaromaia.com/wp-content/uploads/2015/01/BandTV.png" group-title="Abertos", A Fazenda HD
-plugin://plugin.video.OnePlay/?url=plugin://plugin.video.f4mTester/?name=[COLOR+aquamarine][B]ONE[/COLOR][COLOR+white]PLAY[/B][/COLOR]&amp;streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/Bxj6DrTwK2/fireurl.co/29879
+plugin://plugin.video.f4mTester/?name=[COLOR+aquamarine][B]ONE[/COLOR][COLOR+white]PLAY[/B][/COLOR]&amp;streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/Bxj6DrTwK2/fireurl.co/29879
 #EXTINF:-1 tvg-id="Bandeirantes4.hdbr" tvg-name="A&E FHD " tvg-logo="https://abrilveja.files.wordpress.com/2016/11/logoband.png" group-title="Abertos",A&E FHD
-plugin://plugin.video.OnePlay/?url=plugin://plugin.video.f4mTester/?name=[COLOR+aquamarine][B]ONE[/COLOR][COLOR+white]PLAY[/B][/COLOR]&amp;streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/Bxj6DrTwK2/fireurl.co/2025
+plugin://plugin.video.f4mTester/?name=[COLOR+aquamarine][B]ONE[/COLOR][COLOR+white]PLAY[/B][/COLOR]&amp;streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/Bxj6DrTwK2/fireurl.co/2025
 #EXTINF:-1 tvg-id="" tvg-name="Band News HD" tvg-logo="" group-title="Noticiais",Band News HD
 plugin://plugin.video.f4mTester/?name=KALL/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/indio/indio/11121
 #EXTINF:-1 tvg-id="Bandsports4.hdbr" tvg-name="Band Sports FHD" tvg-logo="" group-title="Esportes",Band Sports FHD
