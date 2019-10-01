@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://encurtador.com.KALL/CHQU4" group-title="", PORRA- TODAAAA VIXIIII
-https://www.pyprotect.tk/AcessoProibido/OnePlay/TV/Menu-TV.html
 #EXTINF:-1 tvg-logo="http://encurtador.com.KALL/CHQU4" group-title="", DAZN 1 - Copa Sulamericana HD
 plugin://plugin.video.f4mTester/?name=[COLOR+aquamarine][B]KALL[/COLOR][COLOR+white]PLAY[/B][/COLOR]&amp;streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/Bxj6DrTwK2/fireurl.co/1642
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2 - Copa Libertadores HD" tvg-logo="" group-title="Noticiais",DAZN 2 - Copa Libertadores HD
