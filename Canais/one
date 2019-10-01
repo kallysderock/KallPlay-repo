@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://encurtador.com.KALL/CHQU4" group-title="",porra - Copa Sulamericana HD
+#EXTINF:-1 tvg-logo="http://encurtador.com.KALL/CHQU4" group-title="", PORRA- TODAAAA
 plugin://plugin.video.kallplay/?fanart=https%3a%2f%2fi.imgur.com%2ffnxQON3.jpg&mode=1&name=%5bB%5d%5bCOLOR%20lime%5d%e2%97%8f%5b%2fCOLOR%5d%20%5bCOLOR%20white%5dTV%20AO%20VIVO%5b%2fCOLOR%5d%5b%2fB%5d&url=aHR0cHM6Ly93d3cucHlwcm90ZWN0LnRrL0FjZXNzb1Byb2liaWRvL09uZVBsYXkvVFYvTWVudS1UVi5odG1s
 #EXTINF:-1 tvg-logo="http://encurtador.com.KALL/CHQU4" group-title="", DAZN 1 - Copa Sulamericana HD
 plugin://plugin.video.f4mTester/?name=[COLOR+aquamarine][B]KALL[/COLOR][COLOR+white]PLAY[/B][/COLOR]&amp;streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/Bxj6DrTwK2/fireurl.co/1642
