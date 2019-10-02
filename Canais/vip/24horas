@@ -19,7 +19,7 @@ plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B
 plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/40116.ts
 #EXTINF:-1 tvg-id="" tvg-name="Crystal Bay Beach Resort" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e5b669849dc31124918b36d62681c754.png" group-title="Câmeras | 24 Horas",Crystal Bay Beach Resort
 https://www.youtube.com/watch?v=1FvwPEKgcsA&feature=youtu.be
-#EXTINF:-1 tvg-id="" tvg-name="O Dia 100,5 FM" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/28987a4ac0e1c027f469ff70d132a5a8.png" group-title="Câmeras | 24 Horas",O Dia 100,5 FM
+#EXTINF:-1 tvg-id="" tvg-name="O Dia FM" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/28987a4ac0e1c027f469ff70d132a5a8.png" group-title="Câmeras | 24 Horas",O Dia FM
 plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/40203.ts
 #EXTINF:-1 tvg-id="" tvg-name="Garfield [24h]" tvg-logo="http://urlcurta.ml/vqxKa" group-title="Canais | 24 Horas",Garfield [24h]
 plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/39573.ts
