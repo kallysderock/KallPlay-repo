@@ -2,9 +2,9 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] TV-ABERTA [/B][/COLOR] [COLOR gold]|[/COLOR]</name>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] TV-ABERTA-01 [/B][/COLOR] [COLOR gold]|[/COLOR]</name>
 <thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/Comp/TvAberta</externallink>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/vip/aberto</externallink>
 <fanart>https://imgur.com/qfeXFsp.png</fanart>
 <info>
 
@@ -18,9 +18,9 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] DOCUMENTÁRIOS [/B][/COLOR] [COLOR gold]|[/COLOR]</name>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] TV-ABERTA-02 [/B][/COLOR] [COLOR gold]|[/COLOR]</name>
 <thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/Comp/Documentario</externallink>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/vip/aberto1</externallink>
 <fanart>https://imgur.com/qfeXFsp.png</fanart>
 <info>
 
@@ -28,181 +28,5 @@
 [COLOR gold]|[/COLOR]-  O MELHOR ENTRETENIMENTO PARA A SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] ESPORTES [/B][/COLOR] [COLOR gold]|[/COLOR]</name>
-<thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/Comp/Esportes</externallink>
-<fanart>https://imgur.com/qfeXFsp.png</fanart>
-<info>
-
-[COLOR gold]|[/COLOR]-  O MELHOR ENTRETENIMENTO PARA A SUA CASA -[COLOR gold]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] FILMES E SÉRIES [/B][/COLOR] [COLOR gold]|[/COLOR]</name>
-<thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/Comp/Filmes</externallink>
-<fanart>https://imgur.com/qfeXFsp.png</fanart>
-<info>
-
-[COLOR gold]|[/COLOR]-  O MELHOR ENTRETENIMENTO PARA A SUA CASA -[COLOR gold]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] VARIEDADES [/B][/COLOR] [COLOR gold]|[/COLOR]</name>
-<thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/Comp/Variedades</externallink>
-<fanart>https://imgur.com/qfeXFsp.png</fanart>
-<info>
-
-[COLOR gold]|[/COLOR]-  O MELHOR ENTRETENIMENTO PARA A SUA CASA -[COLOR gold]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] INFANTIL [/B][/COLOR] [COLOR gold]|[/COLOR]</name>
-<thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/Comp/Infantil</externallink>
-<fanart>https://imgur.com/qfeXFsp.png</fanart>
-<info>
-
-[COLOR gold]|[/COLOR]-  O MELHOR ENTRETENIMENTO PARA A SUA CASA -[COLOR gold]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] NOTÍCIAS [/B][/COLOR] [COLOR gold]|[/COLOR]</name>
-<thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/Comp/Noticias</externallink>
-<fanart>https://imgur.com/qfeXFsp.png</fanart>
-<info>
-
-[COLOR gold]|[/COLOR]-  O MELHOR ENTRETENIMENTO PARA A SUA CASA -[COLOR gold]|[/COLOR]</info>
-</channel>
-</channels>
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] FILMES-2018/2019 [/B][/COLOR]</name>
-<thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/filmes</externallink>
-<fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
-<info>
-
-
-[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] OPÇÃO DE FILMES-2019 [/B][/COLOR]</name>
-<thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/filmes1</externallink>
-<fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
-<info>
-
-
-[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
-</channel>
-</channels>
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] ANIMES E DESENHOS [/B][/COLOR]</name>
-<thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/animesedesenhos</externallink>
-<fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
-<info>
-
-
-[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
-</channel>
-</channels>
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] SÉRIES [/B][/COLOR]</name>
-<thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/series</externallink>
-<fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
-<info>
-
-
-[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
-</channel>
-</channels>
-
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] SÉRIES 2 [/B][/COLOR]</name>
-<thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/series2</externallink>
-<fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
-<info>
-
-
-[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] ADULTO [/B][/COLOR] [COLOR gold]|[/COLOR]</name>
-<thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/Comp/Adulto</externallink>
-<fanart>https://imgur.com/qfeXFsp.png</fanart>
-<info>
-
-[COLOR gold]|[/COLOR]-  O MELHOR ENTRETENIMENTO PARA A SUA CASA -[COLOR gold]|[/COLOR]</info>
-</channel>
-</channels>
-
 
 
