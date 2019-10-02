@@ -13,8 +13,6 @@ plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B
 plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62237.ts
 #EXTINF:-1 tvg-id="" tvg-name="Muro das Lamentações" tvg-logo="" group-title="Câmeras | 24 Horas",Muro das Lamentações
 plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62236.ts
-#EXTINF:-1 tvg-id="RecordTV RS" tvg-name="RecordTV RS" tvg-logo="" group-title="Canais | Abertos",RecordTV RS
-plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62090.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tigres - San Diego Zoo" tvg-logo="" group-title="Câmeras | 24 Horas",Tigres - San Diego Zoo
 plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62233.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cascavel Panorâmica" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f869e31dbca32dca5d9adda8f13fcd09.png" group-title="Câmeras | 24 Horas",Cascavel Panorâmica
