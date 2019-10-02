@@ -1,0 +1,108 @@
+#EXTM3U
+#EXTINF:-1,ANIMAL PLANET SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50641
+#EXTINF:-1,Animal Planet
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37128
+#EXTINF:-1,Animal Planet HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36992
+#EXTINF:-1,Discovery Channel
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37116
+#EXTINF:-1,Discovery Channel HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36985
+#EXTINF:-1,DISCOVERY CHANNEL H265
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50538
+#EXTINF:-1,DISCOVERY CHANNEL HD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50691
+#EXTINF:-1,DISCOVERY CHANNEL SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50701
+#EXTINF:-1,DISCOVERY CIVILIZATION H265
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50539
+#EXTINF:-1,DISCOVERY CIVILIZATION HD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50703
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50704
+#EXTINF:-1,DISCOVERY HOME & HELTH SD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50705
+#EXTINF:-1,DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/51002
+#EXTINF:-1,DISCOVERY SCIENCE H265
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50540
+#EXTINF:-1,DISCOVERY SCIENCE HD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50708
+#EXTINF:-1,Discovery Theater
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/51007
+#EXTINF:-1,DISCOVERY THEATER HD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50709
+#EXTINF:-1,DISCOVERY TURBO HD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50710
+#EXTINF:-1,DISCOVERY TURBO SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50711
+#EXTINF:-1,DISCOVERY WORLD HD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50712
+#EXTINF:-1,Discovery Civilization HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36924
+#EXTINF:-1,Discovery Home & Health
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36984
+#EXTINF:-1,Discovery Home & Health HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37115
+#EXTINF:-1,Discovery Science HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36922
+#EXTINF:-1,Discovery Theater HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36983
+#EXTINF:-1,Discovery Turbo
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37112
+#EXTINF:-1,Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36982
+#EXTINF:-1,Discovery World HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36981
+#EXTINF:-1,GloboSat HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36916
+#EXTINF:-1,History
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37081
+#EXTINF:-1,History 2
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/42915
+#EXTINF:-1,History 2 HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36961
+#EXTINF:-1,History HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36960
+#EXTINF:-1,H2 HD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50786
+#EXTINF:-1,H2 SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50787
+#EXTINF:-1,HISTORY CHANNEL HD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50798
+#EXTINF:-1,HISTORY CHANNEL SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50799
+#EXTINF:-1,INVESTIGACAO DISCOVERY HD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50803
+#EXTINF:-1,INVESTIGACAO DISCOVERY SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50817
+#EXTINF:-1,ID: Investigação Discovery
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37114
+#EXTINF:-1,ID: Investigação Discovery HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36959
+#EXTINF:-1,MAIS GLOBOSAT HD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50836
+#EXTINF:-1,MAIS GLOBOSAT SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50838
+#EXTINF:-1,NATGEO SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50905
+#EXTINF:-1,NATGEO WILD HD[ Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50920
+#EXTINF:-1,NATGEO WILD SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50925
+#EXTINF:-1,National Geographic Wild
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37066
+#EXTINF:-1,National Geographic Wild HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36955
+#EXTINF:-1,NATIONAL GEOGRAPHICS
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37068
+#EXTINF:-1,National Geographic HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36956
+#EXTINF:-1,NHK SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50931
+#EXTINF:-1,TLC HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36902
+#EXTINF:-1,TLC SD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37036
+

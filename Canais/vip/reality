@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/irL" group-title="Canais | Variedades",A Fazenda HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29879
+#EXTINF:-1,A Fazenda HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29879
+#EXTINF:-1,Power Couple Brasil FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1908
+#EXTINF:-1,Power Couple Brasil HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1643
+#EXTINF:-1,Power Couple Brasil HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2308
+#EXTINF:-1 tvg-id="" tvg-name="Power Couple Brasil FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://iv.pe/kbw" group-title="Canais | Variedades",Power Couple Brasil FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/1908
+#EXTINF:-1 tvg-id="" tvg-name="Power Couple Brasil HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://iv.pe/5XR" group-title="Canais | Variedades",Power Couple Brasil HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/1643
+#EXTINF:-1 tvg-id="" tvg-name="Power Couple Brasil HD [Alter]" tvg-logo="plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://iv.pe/JOk" group-title="Canais | Variedades",Power Couple Brasil HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2308
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/kbw" group-title="Canais | Variedades",Power Couple Brasil FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1908
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/5XR" group-title="Canais | Variedades",Power Couple Brasil HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1643
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/JOk" group-title="Canais | Variedades",Power Couple Brasil HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2308

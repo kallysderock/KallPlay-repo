@@ -1,0 +1,307 @@
+#EXTM3U
+#EXTINF:-1,DAZN 1 - Copa Sulamericana HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1642
+#EXTINF:-1,DAZN 2 - Copa Libertadores HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1641
+#EXTINF:-1,DAZN 3 - Brasileirao Serie C HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1640
+
+
+#EXTINF:-1,BandSports FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2019
+#EXTINF:-1,BandSports FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25468
+#EXTINF:-1,BandSports FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29422
+#EXTINF:-1,BandSports HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1891
+#EXTINF:-1,BandSports HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2397
+#EXTINF:-1,BandSports SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1892
+#EXTINF:-1,BandSports SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2209
+
+
+#EXTINF:-1,Combate 4K
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1491
+#EXTINF:-1,Combate 4K [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/28671
+#EXTINF:-1,Combate FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1951
+#EXTINF:-1,Combate FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25461
+#EXTINF:-1,Combate FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29477
+#EXTINF:-1,Combate HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1875
+#EXTINF:-1,Combate HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2392
+#EXTINF:-1,Combate SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1876
+#EXTINF:-1,Combate SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2206
+
+
+#EXTINF:-1,ESPN 2 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2004
+#EXTINF:-1,ESPN 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25458
+#EXTINF:-1,ESPN 2 FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29394
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1846
+#EXTINF:-1,ESPN 2 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2379
+#EXTINF:-1,ESPN 2 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1847
+#EXTINF:-1,ESPN 2 SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2196
+#EXTINF:-1,ESPN 4K [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/28861
+#EXTINF:-1,ESPN Brasil FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1948
+#EXTINF:-1,ESPN Brasil FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25387
+#EXTINF:-1,ESPN Brasil FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29396
+#EXTINF:-1,ESPN Brasil HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1844
+#EXTINF:-1,ESPN Brasil HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2378
+#EXTINF:-1,ESPN Brasil SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1845
+#EXTINF:-1,ESPN Brasil SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2195
+#EXTINF:-1,ESPN Extra FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2003
+#EXTINF:-1,ESPN Extra FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25457
+#EXTINF:-1,ESPN Extra FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29393
+#EXTINF:-1,ESPN Extra HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1842
+#EXTINF:-1,ESPN Extra HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2377
+#EXTINF:-1,ESPN Extra SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1843
+#EXTINF:-1,ESPN FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1947
+#EXTINF:-1,ESPN FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25386
+#EXTINF:-1,ESPN FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29395
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1841
+#EXTINF:-1,ESPN HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2376
+#EXTINF:-1,ESPN SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1848
+#EXTINF:-1,ESPN SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2194
+
+
+#EXTINF:-1,Fish TV FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2002
+#EXTINF:-1,Fish TV FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25384
+#EXTINF:-1,Fish TV FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29470
+#EXTINF:-1,Fish TV HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1839
+#EXTINF:-1,Fish TV SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1840
+#EXTINF:-1,Fish TV SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2109
+
+
+#EXTINF:-1,FOX Sports 2 4K [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/28661
+#EXTINF:-1,FOX Sports 2 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1945
+#EXTINF:-1,FOX Sports 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25383
+#EXTINF:-1,FOX Sports 2 FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29467
+#EXTINF:-1,FOX Sports 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1825
+#EXTINF:-1,FOX Sports 2 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2370
+#EXTINF:-1,FOX Sports 2 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1826
+#EXTINF:-1,FOX Sports 2 SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2191
+#EXTINF:-1,FOX Sports 4K [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/28669
+#EXTINF:-1,FOX Sports FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1944
+#EXTINF:-1,FOX Sports FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25382
+#EXTINF:-1,FOX Sports FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29466
+#EXTINF:-1,FOX Sports HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1827
+#EXTINF:-1,FOX Sports HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2369
+#EXTINF:-1,FOX Sports SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1828
+#EXTINF:-1,FOX Sports SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2190
+
+
+#EXTINF:-1,GloboEsporte.com HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/28653
+
+
+#EXTINF:-1,Premiere 2 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1939
+#EXTINF:-1,Premiere 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25427
+#EXTINF:-1,Premiere 2 FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29447
+#EXTINF:-1,Premiere 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1762
+#EXTINF:-1,Premiere 2 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2342
+#EXTINF:-1,Premiere 2 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1763
+#EXTINF:-1,Premiere 2 SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2165
+#EXTINF:-1,Premiere 3 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1938
+#EXTINF:-1,Premiere 3 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25426
+#EXTINF:-1,Premiere 3 FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29446
+#EXTINF:-1,Premiere 3 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1760
+#EXTINF:-1,Premiere 3 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2341
+#EXTINF:-1,Premiere 3 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1761
+#EXTINF:-1,Premiere 3 SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2164
+#EXTINF:-1,Premiere 4 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1937
+#EXTINF:-1,Premiere 4 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25373
+#EXTINF:-1,Premiere 4 FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29445
+#EXTINF:-1,Premiere 4 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1758
+#EXTINF:-1,Premiere 4 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2340
+#EXTINF:-1,Premiere 4 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1759
+#EXTINF:-1,Premiere 4 SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2163
+#EXTINF:-1,Premiere 5 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1936
+#EXTINF:-1,Premiere 5 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25425
+#EXTINF:-1,Premiere 5 FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29444
+#EXTINF:-1,Premiere 5 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1756
+#EXTINF:-1,Premiere 5 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2339
+#EXTINF:-1,Premiere 5 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1757
+#EXTINF:-1,Premiere 5 SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2162
+#EXTINF:-1,Premiere 6 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1935
+#EXTINF:-1,Premiere 6 FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29443
+#EXTINF:-1,Premiere 6 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1754
+#EXTINF:-1,Premiere 6 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2338
+#EXTINF:-1,Premiere 6 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1755
+#EXTINF:-1,Premiere 6 SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2161
+#EXTINF:-1,Premiere 7 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1934
+#EXTINF:-1,Premiere 7 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25372
+#EXTINF:-1,Premiere 7 FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29442
+#EXTINF:-1,Premiere 7 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1752
+#EXTINF:-1,Premiere 7 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2337
+#EXTINF:-1,Premiere 7 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1753
+#EXTINF:-1,Premiere 7 SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2160
+#EXTINF:-1,Premiere 8 SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2159
+#EXTINF:-1,Premiere Clubes 4K
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1492
+#EXTINF:-1,Premiere Clubes 4K [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/28667
+#EXTINF:-1,Premiere Clubes FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1933
+#EXTINF:-1,Premiere Clubes FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25424
+#EXTINF:-1,Premiere Clubes FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29441
+#EXTINF:-1,Premiere Clubes HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1750
+#EXTINF:-1,Premiere Clubes HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2336
+#EXTINF:-1,Premiere Clubes SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1751
+#EXTINF:-1,Premiere Clubes SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2158
+
+
+#EXTINF:-1,SporTV 2 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1930
+#EXTINF:-1,SporTV 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25419
+#EXTINF:-1,SporTV 2 FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29439
+#EXTINF:-1,SporTV 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1729
+#EXTINF:-1,SporTV 2 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2332
+#EXTINF:-1,SporTV 2 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1730
+#EXTINF:-1,SporTV 2 SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2155
+#EXTINF:-1,SporTV 3 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1929
+#EXTINF:-1,SporTV 3 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25418
+#EXTINF:-1,SporTV 3 FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29438
+#EXTINF:-1,SporTV 3 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1727
+#EXTINF:-1,SporTV 3 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2331
+#EXTINF:-1,SporTV 3 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1728
+#EXTINF:-1,SporTV 3 SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2131
+#EXTINF:-1,SporTV 4K
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1493
+#EXTINF:-1,SporTV 4K [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/28657
+#EXTINF:-1,SporTV FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1928
+#EXTINF:-1,SporTV FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25417
+#EXTINF:-1,SporTV FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29437
+#EXTINF:-1,SporTV HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1726
+#EXTINF:-1,SporTV HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2330
+#EXTINF:-1,SporTV SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1731
+#EXTINF:-1,SporTV SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2154
+
+
