@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/irL" group-title="Canais | Variedades",A Fazenda 11 HD
-plugin://plugin.video.f4mTester/?name=KALL/Play-TV/10&streamtype=TSDOWNLOADER&amp;url=http://rev.iptvlegal.tv:25461/live/marcelinho/marcelinho/2474.ts&mode=12
+plugin://plugin.video.f4mTester/?name=KALL/Play-TV/10&streamtype=TSDOWNLOADER&amp;url=http://rev.iptvlegal.tv:25461/live/marcelinho/marcelinho/2474.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/irL" group-title="Canais | Variedades",A Fazenda 11 HD
-plugin://plugin.video.f4mTester/?name=KALL/Play-TV/10&streamtype=TSDOWNLOADER&amp;url=http://rev.iptvlegal.tv:25461/live/marcelinho/marcelinho/1900.ts&mode=12
+plugin://plugin.video.f4mTester/?name=KALL/Play-TV/10&streamtype=TSDOWNLOADER&amp;url=http://rev.iptvlegal.tv:25461/live/marcelinho/marcelinho/1900.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/irL" group-title="Canais | Variedades",A Fazenda HD
 plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29879
 #EXTINF:-1,A Fazenda HD
