@@ -1,11 +1,26 @@
 #EXTM3U
-#EXTINF:-1,DAZN 1 - Copa Sulamericana HD
-plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1642
+#EXTINF:-1,DAZN 1 - DAZN BRASIL
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://uhd.twistertv.online:8880/live/cidinha/123456/20498.m3u8
 #EXTINF:-1,DAZN 2 - Copa Libertadores HD
-plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1641
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/h89mv1uc23/42pwgmxfj5/21776
 #EXTINF:-1,DAZN 3 - Brasileirao Serie C HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/h89mv1uc23/42pwgmxfj5/21760
+
+
+#EXTINF:-1,DAZN 4 - Copa Sulamericana HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1642
+#EXTINF:-1,DAZN 5 - Copa Libertadores HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1641
+#EXTINF:-1,DAZN 6 - Brasileirao Serie C HD
 plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1640
 
+
+#EXTINF:-1,DAZN 7 - DAZN BRASIL
+plugin://plugin.video.f4mTester/?name=KALL/Play-TV/10&streamtype=TSDOWNLOADER&amp;url=http://rev.iptvlegal.tv:25461/live/marcelinho/marcelinho/2542.ts
+#EXTINF:-1,DAZN 8 - DAZN BRASIL
+plugin://plugin.video.f4mTester/?name=KALL/Play-TV/10&streamtype=TSDOWNLOADER&amp;url=http://rev.iptvlegal.tv:25461/live/marcelinho/marcelinho/2527.ts
+#EXTINF:-1,DAZN 9 - DAZN BRASIL
+plugin://plugin.video.f4mTester/?name=KALL/Play-TV/10&streamtype=TSDOWNLOADER&amp;url=http://rev.iptvlegal.tv:25461/live/marcelinho/marcelinho/1960.ts
 
 #EXTINF:-1,BandSports FHD
 plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2019
