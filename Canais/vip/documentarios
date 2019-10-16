@@ -33,5 +33,5 @@ plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;
 #EXTINF:-1,TLC HD
 plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]TLC[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36902
 #EXTINF:-1,TRU TV SD
-plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]TRUTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://167.114.173.170:25461/live/app/YZLGSLt2L5/856.m3u8|User-Agent=NetunuPlayer/2.0
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]TRUTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://167.114.173.170:25461/live/app/YZLGSLt2L5/856.m3u8
 
