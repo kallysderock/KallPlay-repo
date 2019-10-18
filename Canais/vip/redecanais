@@ -10,7 +10,7 @@
 <title>[B][COLOR white]A F a z e n d a 1 1 [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>$doregex[kallplay]afazenda.m3u8|Referer=https://cometa.top/player3/canais.php</link>
 <regex><name>kallplay</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
-<thumbnail>https://i.imgur.com/2bpUEWa.png</thumbnail>
+<thumbnail>https://www.tnh1.com.br/fileadmin/_processed_/1/5/csm_a-fazenda-11_74ee0ea76b.jpg</thumbnail>
 <info>A Fazenda 11 é a décima primeira temporada do reality show brasileiro A Fazenda exibida pela RecordTV a partir de 17 de setembro de 2019. A temporada conta com a apresentação de Marcos Mion, direção geral de Fernando Viudez e direção de núcleo de Rodrigo Carelli</info>
 </item>
 
