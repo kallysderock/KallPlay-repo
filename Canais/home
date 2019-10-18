@@ -79,7 +79,7 @@
 <channel>
 <name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] TV-R.D.C [/B][/COLOR] [COLOR gold]|[/COLOR]</name>
 <thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
-<externallink> plugin://plugin.video.kallplay/?url=xxxxxxxxxxxxxxxxxxxxxxx&mode=17&regexs={u'kallplay': {'expres': u'(.*?).Servidor', 'name': u'kallplay', 'page': u'https://pastebin.com/raw/BPZJEUmU'}}Variedades </externallink>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/vip/redecanais</externallink>
 <fanart>https://imgur.com/qfeXFsp.png</fanart>
 <info>
 
