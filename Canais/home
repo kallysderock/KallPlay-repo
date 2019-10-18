@@ -1,9 +1,24 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] TV-ABERTA [/B][/COLOR] [COLOR gold]|[/COLOR]</name>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] TV-01 [/B][/COLOR] [COLOR gold]|[/COLOR]</name>
 <thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
 <externallink>https://cld.pt/dl/download/64dfdfce-622d-449b-8914-2620f2f5f04b/tv mega.xml</externallink>
+<fanart>https://imgur.com/qfeXFsp.png</fanart>
+<info>
+
+
+[COLOR gold]|[/COLOR]-  O MELHOR ENTRETENIMENTO PARA A SUA CASA -[COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] TV-02 [/B][/COLOR] [COLOR gold]|[/COLOR]</name>
+<thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
+<externallink>https://cld.pt/dl/download/24b0a618-0ab2-483b-a192-f33003c6cb8e/lista paga mister wil bonus 5.xml</externallink>
 <fanart>https://imgur.com/qfeXFsp.png</fanart>
 <info>
 
