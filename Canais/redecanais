@@ -7,9 +7,9 @@
 </item>
 
 <item>
-<title>[B][COLOR white]BAND[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[NORDESTV]band.m3u8|Referer=http://cometa.top/</link>
-<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<title>[B][COLOR white]REDE CANAIS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]band.m3u8|Referer=https://canaisgratis.org/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/dR4QaPkj</page></regex>
 <thumbnail>https://i.imgur.com/2bpUEWa.png</thumbnail>
 <info>Rede Bandeirantes é uma rede de televisão aberta comercial brasileira pertencente ao Grupo Bandeirantes de Comunicação. Entrou no ar no dia 13 de maio de 1967, em São Paulo, SP, pelo canal 13 VHF</info>
 </item>
