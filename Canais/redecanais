@@ -32,7 +32,7 @@ Email: suporte@canal.com.br</info>
 <item>
 <title>[B][COLOR white]GLOBO NORDESTE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>$doregex[NORDESTV]bobonordeste.m3u8|Referer=http://cometa.top/</link>
-<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/dR4QaPkj</page></regex>
 <thumbnail>https://i.imgur.com/NFwie0y.png</thumbnail>
 <info>TV Globo Nordeste é uma emissora de televisão brasileira sediada no Recife, capital do estado de Pernambuco. Opera no canal 13 e é uma emissora própria da Rede Globo.</info>
 </item>
