@@ -10,7 +10,7 @@ https://d134ushy0126qn.cloudfront.net/hls1/bbb3.m3u8
 #EXTINF:-1 tvg-logo="https://manausalerta.com.br/wp-content/uploads/2020/01/bbb17-participantes-enquete-final-big-brother-brasil-696x392.jpg" group-title="", BBB20-CAM03
 https://d134ushy0126qn.cloudfront.net/hls1/bbb4.m3u8
 #EXTINF:-1, Baby TV
-plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18989.m3u8
+https://pastebin.com/raw/dR4QaPkj
 #EXTINF:-1, BAND ESPORTES
 plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18988.m3u8
 #EXTINF:-1, BAND NEWS
