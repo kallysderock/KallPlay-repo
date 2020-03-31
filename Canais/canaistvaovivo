@@ -48,7 +48,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] FAUSTINO TV [/B][/COLOR]</name>
+<name>[COLOR gold]|[/COLOR][COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR][COLOR gold]|[/COLOR][COLOR cyan][B]FAUSTINO TV[/B][/COLOR]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/F</externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
@@ -64,7 +64,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] BRAZUCA TV [/B][/COLOR]</name>
+<name>[COLOR gold]|[/COLOR][COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR][COLOR gold]|[/COLOR] [COLOR White][B] BRAZUCA PLAY[/B][/COLOR]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/BRAZ</externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
@@ -80,7 +80,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] FORMIGA TV [/B][/COLOR]</name>
+<name>[COLOR gold]|[/COLOR][COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR][COLOR gold]|[/COLOR][COLOR blue][B]FORMIGA[/B][/COLOR][COLOR White][B]TV[/B][/COLOR]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/4b1U0Ykw</externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
@@ -95,7 +95,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] ALADO TV [/B][/COLOR]</name>
+<name>[COLOR gold]|[/COLOR][COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR][COLOR gold]|[/COLOR][COLOR White][B]ALADO TV[/B][/COLOR]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/ru3GpKWJ</externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
@@ -110,7 +110,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] VIDA [/B][/COLOR]</name>
+<name>[COLOR gold]|[/COLOR][COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR][COLOR gold]|[/COLOR][COLOR cyan][B]--VIDA--[/B][/COLOR]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/VID</externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
@@ -125,7 +125,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B]NORDEST TV[/B][/COLOR]</name>
+<name>[COLOR gold]|[/COLOR][COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR][COLOR gold]|[/COLOR][COLOR blue][B]NORDEST[/B][/COLOR][COLOR White][B]TV[/B][/COLOR]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/NORD</externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
