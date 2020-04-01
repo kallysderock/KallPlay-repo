@@ -4,7 +4,7 @@ plugin://plugin.video.f4mTester/?streamtype=https://proxyts.hapixel.online:8443/
 #EXTINF:-1 , AMC 
 $doregex[Fenix-Flix]animalplanet.m3u8|Referer= https://l.llllllllllllllllllllllllllllllllllllllll.fun/player3/contadorcanais.php?canal[COLOR white][B] ANIMAL PLANET [/B][/COLOR][B][COLOR firebrick]HD[/COLOR][/B]&mode=17&regexs={u'Fenix-Flix': {'expres': u'(.*?).Servidor', 'name': u'Fenix-Flix', 'page': u'https://pastebin.com/raw/LfQw0hW7'}}&iconimage=http://www.tvmagazine.com.br/imagens/icones/600/animalplanet.png
 #EXTINF:-1 , AMC HD 
-plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13623
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=https://proxyts.hapixel.online:8443/hls1/.Servidor2
 #EXTINF:-1 , ANIMAL PLANET HD 
 plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13620
 #EXTINF:-1 , ARTE 1 
