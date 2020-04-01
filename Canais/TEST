@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://encurtador.com.br/CHQU4" group-title="", CANAL RICOS
-https://proxyts.hapixel.online:8443/hls1/.Servidor
 plugin://plugin.video.f4mTester/?streamtype=https://proxyts.hapixel.online:8443/hls1/.Servidor2
-
 #EXTINF:-1 , AMC 
 plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13625
 #EXTINF:-1 , AMC HD 
