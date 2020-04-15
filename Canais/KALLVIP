@@ -290,7 +290,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]
 #EXTINF:-1, HBO Family SD
 plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/132.m3u8
 #EXTINF:-1, HBO Plus HD
-plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/12.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/128.m3u8
 #EXTINF:-1, HBO Plus SD
 plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/127.m3u8
 #EXTINF:-1, HBO Signature HD
