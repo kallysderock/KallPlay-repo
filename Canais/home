@@ -1,9 +1,9 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] TV-01 [/B][/COLOR] [COLOR gold]|[/COLOR]</name>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] VIP-01 [/B][/COLOR] [COLOR gold]|[/COLOR]</name>
 <thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
-<externallink>https://cld.pt/dl/download/64dfdfce-622d-449b-8914-2620f2f5f04b/tv mega.xml</externallink>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/KALLVIP</externallink>
 <fanart>https://imgur.com/qfeXFsp.png</fanart>
 <info>
 
@@ -16,9 +16,9 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] TV-02 [/B][/COLOR] [COLOR gold]|[/COLOR]</name>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] VIP-02 [/B][/COLOR] [COLOR gold]|[/COLOR]</name>
 <thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
-<externallink>http://nordestv.gabserv.com.br/Sertao/Brasil/LISTA-IPTV/01</externallink>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/VIPS1</externallink>
 <fanart>https://imgur.com/qfeXFsp.png</fanart>
 <info>
 
@@ -36,7 +36,7 @@
 <channel>
 <name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] TV-02 [/B][/COLOR] [COLOR gold]|[/COLOR]</name>
 <thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
-<externallink>https://cld.pt/dl/download/24b0a618-0ab2-483b-a192-f33003c6cb8e/lista paga mister wil bonus 5.xml</externallink>
+<externallink></externallink>
 <fanart>https://imgur.com/qfeXFsp.png</fanart>
 <info>
 
@@ -51,7 +51,7 @@
 <channel>
 <name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] TV-03 [/B][/COLOR] [COLOR gold]|[/COLOR]</name>
 <thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
-<externallink>https://cld.pt/dl/download/e950d58a-7cdf-4f3e-9c87-5cbe97518473/TV RASIL.xml</externallink>
+<externallink></externallink>
 <fanart>https://imgur.com/qfeXFsp.png</fanart>
 <info>
 
@@ -66,7 +66,7 @@
 <channel>
 <name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] TV-04 [/B][/COLOR] [COLOR gold]|[/COLOR]</name>
 <thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
-<externallink>https://gitlab.com/iptv-play/canais/raw/master/serv1</externallink>
+<externallink></externallink>
 <fanart>https://imgur.com/qfeXFsp.png</fanart>
 <info>
 
@@ -82,7 +82,7 @@
 <channel>
 <name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] TV-05 [/B][/COLOR] [COLOR gold]|[/COLOR]</name>
 <thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
-<externallink>https://gitlab.com/iptv-play/canais/raw/master/teste</externallink>
+<externallink></externallink>
 <fanart>https://imgur.com/qfeXFsp.png</fanart>
 <info>
 
@@ -97,7 +97,7 @@
 <channel>
 <name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] TV-R.D.C [/B][/COLOR] [COLOR gold]|[/COLOR]</name>
 <thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/vip/redecanais</externallink>
+<externallink></externallink>
 <fanart>https://imgur.com/qfeXFsp.png</fanart>
 <info>
 
