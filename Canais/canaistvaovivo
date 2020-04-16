@@ -65,7 +65,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR magenta][B] FILMES[/B][/COLOR] </name>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR white][B] FILMES[/B][/COLOR] </name>
 <thumbnail>https://raw.githubusercontent.com/kallysderock/KallPlay/master/imgs/KallPlaytv.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kallysderock/KallPlay/master/Canais/FilmesKa</externallink>
 <fanart>https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png</fanart>
