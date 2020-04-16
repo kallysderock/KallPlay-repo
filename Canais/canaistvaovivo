@@ -32,7 +32,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR red][B] TV ON[/B][/COLOR] </name>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR red][B]TV ON[/B][/COLOR] </name>
 <thumbnail>https://raw.githubusercontent.com/kallysderock/KallPlay/master/imgs/KallPlaytv.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kallysderock/KallPlay/master/Canais/TvOn</externallink>
 <fanart>https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png</fanart>
@@ -47,7 +47,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR green[B] ESPORTES[/B][/COLOR] </name>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR green][B] ESPORTES[/B][/COLOR] </name>
 <thumbnail>https://raw.githubusercontent.com/kallysderock/KallPlay/master/imgs/KallPlaytv.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kallysderock/KallPlay/master/Canais/EsportesK</externallink>
 <fanart>https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png</fanart>
@@ -65,7 +65,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR magenta[B] FILMES[/B][/COLOR] </name>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR magenta][B] FILMES[/B][/COLOR] </name>
 <thumbnail>https://raw.githubusercontent.com/kallysderock/KallPlay/master/imgs/KallPlaytv.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kallysderock/KallPlay/master/Canais/FilmesKa</externallink>
 <fanart>https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png</fanart>
@@ -82,7 +82,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR blue[B]SÉRIES[/B][/COLOR] </name>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR blue][B]SÉRIES[/B][/COLOR] </name>
 <thumbnail>https://raw.githubusercontent.com/kallysderock/KallPlay/master/imgs/KallPlaytv.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kallysderock/KallPlay/master/Canais/SeriesKa</externallink>
 <fanart>https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png</fanart>
@@ -99,7 +99,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR yellow[B]KIDS[/B][/COLOR] </name>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR yellow][B]KIDS[/B][/COLOR] </name>
 <thumbnail>https://raw.githubusercontent.com/kallysderock/KallPlay/master/imgs/KallPlaytv.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kallysderock/KallPlay/master/Canais/KidzK</externallink>
 <fanart>https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png</fanart>
