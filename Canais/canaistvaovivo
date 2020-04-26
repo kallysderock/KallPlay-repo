@@ -1,5 +1,20 @@
 <channels>
 <channel>
+<name>[COLOR gold]|[/COLOR] [COLOR aquamarine][B]KALL[/B][/COLOR][COLOR white][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR black][B]KALLPLAY TV[/B][/COLOR]</name>
+<thumbnail>https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay/master/Can/TV%20KALL</externallink>
+<fanart>https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png</fanart>
+<info>
+
+
+[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR gold]|[/COLOR] [COLOR aquamarine][B]KALL[/B][/COLOR][COLOR white][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR black][B]BBB 24Hs[/B][/COLOR]</name>
 <thumbnail>https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kallysderock/KallPlay/master/Canais/BbbK</externallink>
