@@ -28,11 +28,11 @@
     <import addon="script.module.simplejson" />    
     <import addon="script.module.livestreamer"/>
     <import addon="script.module.pyamf"/>
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
+    <import addon="script.common.plugin.cache"/>
     <import addon="script.module.metahandler" version="2.5.1"/>
-	<import addon="script.module.addon.common" />
-	<import addon="script.module.addon.signals" version="0.0.1"/>
-	<import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="script.module.addon.common" />
+    <import addon="script.module.addon.signals" version="0.0.1"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
 </requires>
 <extension point="xbmc.addon.repository" name="KallPlay-repo">
 <info compressed="false">https://github.com/kallysderock/KallPlay-repo/raw/master/addons.xml</info>
@@ -56,9 +56,6 @@
 <assets>
 <icon>icon.png</icon>
 <fanart>fanart.jpg</fanart>
-<screenshot>resources/home.jpg</screenshot>
-<screenshot>resources/movies.jpg</screenshot>
-<screenshot>resources/series.jpg</screenshot>
 </assets>
 </extension>
 </addon>
@@ -80,7 +77,7 @@
     <import addon="plugin.video.youtube" version="5.0.0"/>
     <import addon="script.module.urlresolver"/>
     <import addon="script.module.simplejson" /> 
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
+    <import addon="script.common.plugin.cache"/>
     <import addon="script.module.metahandler" version="2.5.1"/>
 	  <import addon="script.module.livestreamer" optional="true"/>
  </requires>
