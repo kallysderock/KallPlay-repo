@@ -13,7 +13,7 @@
 <import addon="script.module.simplejson" />    
 <import addon="script.module.livestreamer"/>
 <import addon="script.module.pyamf"/>
-<import addon="script.common.plugin.cache" version="2.5.2"/>
+<import addon="script.common.plugin.cache"/>
 <import addon="script.module.metahandler" version="2.5.1"/>
 <import addon="script.module.addon.common" />
 <import addon="script.module.addon.signals" version="0.0.1"/>
